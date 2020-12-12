@@ -4,3 +4,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 1 - Working with Variables in Python to Manage Data
 * [Solution: Band Name Generator](day01/.)
+
+### Day 2 - Understanding Data Types and How to Manipulate Strings
+* [Solution: Tip Calculator](day02/.)
