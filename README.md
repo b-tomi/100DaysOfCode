@@ -7,3 +7,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 2 - Understanding Data Types and How to Manipulate Strings
 * [Solution: Tip Calculator](day02/.)
+
+### Day 3 - Control Flow and Logical Operators
+* [Solution: Treasure Island](day03/.)
