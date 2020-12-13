@@ -13,3 +13,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 4 - Randomisation and Python Lists
 * [Solution: Rock Paper Scissors](day04/.)
+
+### Day 5 - Python Loops
+* [Solution: Password Generator](day05/.)
