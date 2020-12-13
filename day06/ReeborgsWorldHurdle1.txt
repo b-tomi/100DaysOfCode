@@ -1,0 +1,25 @@
+# Reeborg's World: Hurdle 1
+
+# Copy-paste this to https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
+
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+
+def running_jump(times):
+    for i in range(times):
+        move()
+        turn_left()
+        move()
+        turn_right()
+        move()
+        turn_right()
+        move()
+        # no need for a turn after the last hurdle
+        if i < times - 1:
+            turn_left()
+
+
+running_jump(6)

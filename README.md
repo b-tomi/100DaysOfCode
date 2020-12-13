@@ -16,3 +16,10 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 5 - Python Loops
 * [Solution: Password Generator](day05/.)
+
+### Day 6 - Python Functions & Karel
+* [Solution: Reeborg's World: Hurdle 1](day06/ReeborgsWorldHurdle1.txt)
+* [Solution: Reeborg's World: Hurdle 2](day06/ReeborgsWorldHurdle2.txt)
+* [Solution: Reeborg's World: Hurdle 3](day06/ReeborgsWorldHurdle3.txt)
+* [Solution: Reeborg's World: Hurdle 4](day06/ReeborgsWorldHurdle4.txt)
+* [Solution: Reeborg's World: Maze](day06/ReeborgsWorldMaze.txt)
