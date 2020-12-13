@@ -10,3 +10,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 3 - Control Flow and Logical Operators
 * [Solution: Treasure Island](day03/.)
+
+### Day 4 - Randomisation and Python Lists
+* [Solution: Rock Paper Scissors](day04/.)
