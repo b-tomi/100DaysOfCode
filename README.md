@@ -23,3 +23,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 * [Solution: Reeborg's World: Hurdle 3](day06/ReeborgsWorldHurdle3.txt)
 * [Solution: Reeborg's World: Hurdle 4](day06/ReeborgsWorldHurdle4.txt)
 * [Solution: Reeborg's World: Maze](day06/ReeborgsWorldMaze.txt)
+
+### Day 7 - Hangman
+* [Solution: Hangman](day07/.)
