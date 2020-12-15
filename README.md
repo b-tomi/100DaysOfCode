@@ -26,3 +26,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 7 - Hangman
 * [Solution: Hangman](day07/.)
+
+### Day 8 - Function Parameters & Caesar Cipher
+* [Solution: Caesar Cipher](day08/.)
