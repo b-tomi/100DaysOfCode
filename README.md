@@ -32,3 +32,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 9 - Dictionaries, Nesting and the Secret Auction
 * [Solution: Secret Auction](day09/.)
+
+### Day 10 - Functions with Outputs
+* [Solution: Calculator](day10/.)
