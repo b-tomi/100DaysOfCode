@@ -35,3 +35,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 10 - Functions with Outputs
 * [Solution: Calculator](day10/.)
+
+### Day 11 - The Blackjack Capstone Project
+* [Solution: Blackjack](day11/.)
