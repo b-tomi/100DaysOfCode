@@ -41,3 +41,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 12 - Scope & Number Guessing Game
 * [Solution: Guess the Number](day12/.)
+
+### Day 13 - Debugging: How to Find and Fix Errors in your Code
+* [Solution: Debugging](day13/.)
