@@ -38,3 +38,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 11 - The Blackjack Capstone Project
 * [Solution: Blackjack](day11/.)
+
+### Day 12 - Scope & Number Guessing Game
+* [Solution: Guess the Number](day12/.)
