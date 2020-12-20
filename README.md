@@ -47,3 +47,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 14 - Higher Lower Game Project
 * [Solution: Higher Lower Game](day14/.)
+
+### Day 15 - Local Development Environment Setup & the Coffee Machine
+* [Solution: Coffee Machine](day15/.)
