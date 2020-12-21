@@ -50,3 +50,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 15 - Local Development Environment Setup & the Coffee Machine
 * [Solution: Coffee Machine](day15/.)
+
+### Day 16 - Object Oriented Programming (OOP)
+* [Solution: OOP Coffee Machine](day16/.)
