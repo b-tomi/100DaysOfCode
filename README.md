@@ -53,3 +53,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 16 - Object Oriented Programming (OOP)
 * [Solution: OOP Coffee Machine](day16/.)
+
+### Day 17 - The Quiz Project & the Benefits of OOP
+* [Solution: Quiz](day17/.)
