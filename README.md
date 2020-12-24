@@ -59,3 +59,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 18 - Turtle & the Graphical User Interface (GUI)
 * [Solution: Hirst Painting](day18/.)
+
+### Day 19 - Instances, State and Higher Order Functions
+* [Solution: Turtle Race](day19/.)
