@@ -62,3 +62,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 19 - Instances, State and Higher Order Functions
 * [Solution: Turtle Race](day19/.)
+
+### Day 20 - Build the Snake Game Part 1: Animation & Coordinates
+* [Solution: Snake Game Part 1](day20/.)
