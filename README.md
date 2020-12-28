@@ -71,3 +71,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 22 - Build Pong: The Famous Arcade Game
 * [Solution: Pong](day22/.)
+
+### Day 23 - The Turtle Crossing Capstone Project
+* [Solution: Pong](day23/.)
