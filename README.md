@@ -73,4 +73,7 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 * [Solution: Pong](day22/.)
 
 ### Day 23 - The Turtle Crossing Capstone Project
-* [Solution: Pong](day23/.)
+* [Solution: Turtle Crossing](day23/.)
+
+### Day 24 - Files, Directories and Paths
+* [Solution: Mail Merge](day24/.)
