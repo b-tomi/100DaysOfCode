@@ -83,3 +83,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 26 - List Comprehension and the NATO Alphabet
 * [Solution: NATO Alphabet](day26/.)
+
+### Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
+* [Solution: Mile to Kilometers Converter](day27/.)
