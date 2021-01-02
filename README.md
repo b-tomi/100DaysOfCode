@@ -86,3 +86,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
 * [Solution: Mile to Kilometers Converter](day27/.)
+
+### Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+* [Solution: Pomodoro](day28/.)
