@@ -89,3 +89,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 * [Solution: Pomodoro](day28/.)
+
+### Day 29 - Building a Password Manager GUI App with Tkinter
+* [Solution: Password Manager](day29/.)
