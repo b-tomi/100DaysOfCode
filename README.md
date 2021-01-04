@@ -93,5 +93,8 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 ### Day 29 - Building a Password Manager GUI App with Tkinter
 * [Solution: Password Manager](day29/.)
 
-### Day 30 - Errors, Exceptions and JSON Data: Improving the Password
+### Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
 * [Solution: Password Manager Improved](day30/.)
+
+### Day 31 - Flash Card App Capstone Project
+* [Solution: Flash Card App](day31/.)
