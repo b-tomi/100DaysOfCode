@@ -98,3 +98,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 31 - Flash Card App Capstone Project
 * [Solution: Flash Card App](day31/.)
+
+### Day 32 - Send Email (smtplib) & Manage Dates (datetime)
+* [Solution: Automated Birthday Wisher](day32/.)
