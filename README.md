@@ -104,3 +104,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
 * [Solution: ISS Overhead Notifier](day33/.)
+
+### Day 34 - API Practice - Creating a GUI Quiz App
+* [Solution: Quizzler](day34/.)
