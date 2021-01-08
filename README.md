@@ -107,3 +107,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 34 - API Practice - Creating a GUI Quiz App
 * [Solution: Quizzler](day34/.)
+
+### Day 35 - Keys, Authentication & Environment Variables: Send SMS
+* [Solution: SMS Rain Alert](day35/.)
