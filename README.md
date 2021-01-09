@@ -113,3 +113,7 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 36 - Stock Trading News Alert Project
 * [Solution: SMS Stock News](day36/.)
+
+### Day 37 - Habit Tracking Project: API Post Requests & Headers
+* [Solution: Habit Tracking](day37/.)
+* [Pixela Graph](https://pixe.la/v1/users/tomi/graphs/graph1.html)
