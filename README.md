@@ -110,3 +110,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 35 - Keys, Authentication & Environment Variables: Send SMS
 * [Solution: SMS Rain Alert](day35/.)
+
+### Day 36 - Stock Trading News Alert Project
+* [Solution: SMS Stock News](day36/.)
