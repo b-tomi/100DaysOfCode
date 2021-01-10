@@ -117,3 +117,7 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 ### Day 37 - Habit Tracking Project: API Post Requests & Headers
 * [Solution: Habit Tracking](day37/.)
 * [Pixela Graph](https://pixe.la/v1/users/tomi/graphs/graph1.html)
+
+### Day 38 - Workout Tracking Using Google Sheets
+* [Solution: Exercise Tracking](day38/.)
+* [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/16VI8oiRoGZtoiZhTpt8w6fBxzo9gjsMbazgU3rPslvA/edit?usp=sharing)
