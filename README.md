@@ -129,3 +129,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 ### Day 40 - Capstone Part 2: Flight Club
 * [Solution: Flight Club](day40/.)
 * [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/1LvvQmQgI5E7nmIlH7NBpUqWiacESjh4TBvXCn0Z-SWU/edit?usp=sharing)
+
+### Day 41 - Web Foundation - Introduction to HTML
+* [Solution: HTML - Personal Site](day41/.)
