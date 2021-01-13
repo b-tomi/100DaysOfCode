@@ -132,3 +132,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 41 - Web Foundation - Introduction to HTML
 * [Solution: HTML - Personal Site](day41/.)
+
+### Day 42 - Web Foundation - Intermediate HTML
+* [Solution: Forms and Tables in HTML](day42/.)
