@@ -1,0 +1,25 @@
+/* color palette from https://colorhunt.co/palette/226607 */
+body {
+	background-color: #e6e6e6;
+	color: #0f0f0f;
+}
+
+h1,
+h3 {
+	color: #532e1c;
+}
+
+hr {
+	color: #c5a880;
+	border-style: dotted none none none;
+	border-width: 5px;
+	width: 10%;
+}
+
+#top-table {
+	border-spacing: 20px;
+}
+
+.tables {
+	border-spacing: 10px;
+}

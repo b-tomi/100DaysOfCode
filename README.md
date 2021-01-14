@@ -135,3 +135,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 42 - Web Foundation - Intermediate HTML
 * [Solution: Forms and Tables in HTML](day42/.)
+
+### Day 43 - Web Foundation - Introduction to CSS
+* [Solution: External CSS](day43/.)
