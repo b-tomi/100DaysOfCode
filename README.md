@@ -138,3 +138,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 43 - Web Foundation - Introduction to CSS
 * [Solution: External CSS](day43/.)
+
+### Day 44 - Web Foundation - Intermediate CSS
+* [Solution: CSS - My Site](day44/.)
