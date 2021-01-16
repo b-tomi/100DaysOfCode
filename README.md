@@ -141,3 +141,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 44 - Web Foundation - Intermediate CSS
 * [Solution: CSS - My Site](day44/.)
+
+### Day 45 - Web Scraping with Beautiful Soup
+* [Solution: Top 100 Movies](day45/.)
