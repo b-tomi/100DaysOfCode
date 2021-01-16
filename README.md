@@ -144,3 +144,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 45 - Web Scraping with Beautiful Soup
 * [Solution: Top 100 Movies](day45/.)
+
+### Day 46 - Create a Spotify Playlist using the Musical Time Machine
+* [Solution: Musical Time Machine](day46/.)
