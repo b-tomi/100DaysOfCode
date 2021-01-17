@@ -150,3 +150,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 47 - Create an Automated Amazon Price Tracker
 * [Solution: Amazon Price Tracker](day47/.)
+
+### Day 48 - Selenium Webdriver Browser and Game Playing Bot
+* [Solution: Cookie Clicker](day48/.)
