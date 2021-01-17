@@ -147,3 +147,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 46 - Create a Spotify Playlist using the Musical Time Machine
 * [Solution: Musical Time Machine](day46/.)
+
+### Day 47 - Create an Automated Amazon Price Tracker
+* [Solution: Amazon Price Tracker](day47/.)
