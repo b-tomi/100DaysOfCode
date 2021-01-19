@@ -156,3 +156,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 49 - Automating Job Applications on LinkedIn
 * [Solution: Automated Job Application Bot](day49/.)
+
+### Day 50 - Auto Tinder Swiping Bot
+* [Solution: Auto Tinder Swiper](day50/.)
