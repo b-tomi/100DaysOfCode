@@ -159,3 +159,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 50 - Auto Tinder Swiping Bot
 * [Solution: Auto Tinder Swiper](day50/.)
+
+### Day 51 - Internet Speed Twitter Complaint Bot
+* [Solution: Internet Speed Twitter Bot](day51/.)
