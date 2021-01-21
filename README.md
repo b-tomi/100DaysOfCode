@@ -162,3 +162,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 51 - Internet Speed Twitter Complaint Bot
 * [Solution: Internet Speed Twitter Bot](day51/.)
+
+### Day 52 - Instagram Follower Bot
+* [Solution: Instagram Follower Bot](day52/.)
