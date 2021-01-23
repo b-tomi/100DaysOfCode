@@ -169,3 +169,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 ### Day 53 - Web Scraping Capstone - Data Entry Job Automation
 * [Solution: Zillow Rental Research](day53/.)
 * [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/16w7MZFzsVSytvD05paYQ_jiEHN7DjY1oWfJhVUfMmb8/edit?usp=sharing)
+
+### Day 54 - Introduction to Web Development with Flask
+* [Solution: Flask Quickstart](day54/.)
