@@ -172,3 +172,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 54 - Introduction to Web Development with Flask
 * [Solution: Flask Quickstart](day54/.)
+
+### Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
+* [Solution: Flask Higher Lower Game](day55/.)
