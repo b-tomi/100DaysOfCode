@@ -175,3 +175,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
 * [Solution: Flask Higher Lower Game](day55/.)
+
+### Day 56 - Rendering HTML/Static files and Using Website Templates
+* [Solution: Flask Name Card Website](day56/.)
