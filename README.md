@@ -178,3 +178,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 56 - Rendering HTML/Static files and Using Website Templates
 * [Solution: Flask Name Card Website](day56/.)
+
+### Day 57 - Templating with Jinja in Flask Applications
+* [Solution: Blog Capstone Project Part 1](day57/.)

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog Capstone Project Part 1</title>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="static/css/styles.css">
+    <link rel="icon" href="static/favicon.ico">
+</head>
+<body>
+<div class="wrapper">
+    <div class="top">
+        <div class="title"><h1>My Blog (Part 1)</h1></div>
+    </div>
+    {% for post in posts: %}
+        <div class="content">
+            <div class="card">
+                <h2>{{ post['title'] }}</h2>
+                <p class="text">{{ post['subtitle'] }}</p>
+                <a href="{{ url_for('get_blog', blog_id=post['id']) }}">Read</a>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+</body>
+<footer>
+    <!-- always display the current year-->
+    <p><a href="https://github.com/b-tomi">b-tomi</a> &copy; {{ year }}</p>
+</footer>
+</html>
