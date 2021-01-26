@@ -181,3 +181,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 57 - Templating with Jinja in Flask Applications
 * [Solution: Blog Capstone Project Part 1](day57/.)
+
+### Day 58 - Web Foundation - Bootstrap
+* [Solution: Flask TinDog](day58/.)
