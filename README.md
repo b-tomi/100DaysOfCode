@@ -184,3 +184,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 58 - Web Foundation - Bootstrap
 * [Solution: Flask TinDog](day58/.)
+
+### Day 59 - Blog Capstone Project - Adding Styling
+* [Solution: Blog Capstone Project Part 2](day59/.)
