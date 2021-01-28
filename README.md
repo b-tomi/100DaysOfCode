@@ -187,3 +187,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 59 - Blog Capstone Project - Adding Styling
 * [Solution: Blog Capstone Project Part 2](day59/.)
+
+### Day 60 - Make POST Requests with Flask and HTML Forms
+* [Solution: Flask HTML Forms](day60/.)
