@@ -190,3 +190,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 60 - Make POST Requests with Flask and HTML Forms
 * [Solution: Flask HTML Forms](day60/.)
+
+### Day 61 - Building Advanced Forms with Flask-WTForms
+* [Solution: Flask-WTF Forms](day61/.)
