@@ -193,3 +193,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 61 - Building Advanced Forms with Flask-WTForms
 * [Solution: Flask-WTF Forms](day61/.)
+
+### Day 62 - Flask, WTForms, Bootstrap and CSV - Coffee & Wi-Fi Project
+* [Solution: Coffee & Wi-Fi](day62/.)
