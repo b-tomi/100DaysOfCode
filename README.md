@@ -196,3 +196,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 62 - Flask, WTForms, Bootstrap and CSV - Coffee & Wi-Fi Project
 * [Solution: Coffee & Wi-Fi](day62/.)
+
+### Day 63 - Databases and with SQLite and SQLAlchemy
+* [Solution: Virtual Bookshelf](day63/.)
