@@ -199,3 +199,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 63 - Databases and with SQLite and SQLAlchemy
 * [Solution: Virtual Bookshelf](day63/.)
+
+### Day 64 - My Top 10 Movies Website Project
+* [Solution: My Top 10 Movies](day64/.)
