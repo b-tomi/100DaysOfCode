@@ -202,3 +202,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 64 - My Top 10 Movies Website Project
 * [Solution: My Top 10 Movies](day64/.)
+
+### Day 65 - Web Design School - How to Create a Website that People will Love
+* [Solution: Coffee & Wi-Fi v1.1](day65/.)

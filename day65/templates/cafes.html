@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block title %}Coffee and Wi-Fi: Restaurants{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1>All Cafes</h1>
+                <table class="table">
+                    <!-- header -->
+                    <tr>
+                        {% for column in header: %}
+                            <th>{{ column }}</th>
+                        {% endfor %}
+                    </tr>
+                    <!-- entries -->
+                    {% for row in cafes: %}
+                        <tr>
+                            <td>{{ row[0] }}</td>
+                            <!-- the URL needs proper formatting -->
+                            <td><a href="{{ row[1] }}" target="_blank">Maps Link</a></td>
+                            <td>{{ row[2] }}</td>
+                            <td>{{ row[3] }}</td>
+                            <td>{{ row[4] }}</td>
+                            <td>{{ row[5] }}</td>
+                            <td>{{ row[6] }}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+                <p><a href="{{ url_for('home') }}">Return to index page</a></p>
+            </div>
+        </div>
+    </div>
+{% endblock %}

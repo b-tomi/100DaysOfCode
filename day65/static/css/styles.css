@@ -1,0 +1,48 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #2C3A47;
+    color: #CAD3C8;
+}
+
+h1 {
+    font-family: 'Gochi Hand', cursive;
+    color: #FEA47F;
+}
+
+a {
+    color: #9ff1dc;
+}
+
+a:hover {
+    color: #58B19F;
+}
+
+th {
+    background-color: #394b5c;
+    color: #55E6C1;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+td {
+    color: #CAD3C8;
+}
+
+
+.jumbotron {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    background-color: #2C3A47;
+    color: #CAD3C8;
+}
+
+.jumbotron h1 {
+    color: #FEA47F;
+}
+
+.space-above {
+    margin-top: 20px;
+    padding-top: 20px;
+}
