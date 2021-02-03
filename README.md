@@ -205,3 +205,7 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 65 - Web Design School - How to Create a Website that People will Love
 * [Solution: Coffee & Wi-Fi v1.1](day65/.)
+
+### Day 66 - Building Your Own API with RESTful Routing
+* [Solution: Cafe & Wifi API](day66/.)
+* [Postman Documentation](https://documenter.getpostman.com/view/14447538/TW73D58F)
