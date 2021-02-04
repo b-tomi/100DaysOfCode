@@ -209,3 +209,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 ### Day 66 - Building Your Own API with RESTful Routing
 * [Solution: Cafe & Wifi API](day66/.)
 * [Postman Documentation](https://documenter.getpostman.com/view/14447538/TW73D58F)
+
+### Day 67 - Blog Capstone Project Part 3 - RESTful Routing
+* [Solution: Blog Capstone Project Part 3](day67/.)
