@@ -212,3 +212,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 67 - Blog Capstone Project Part 3 - RESTful Routing
 * [Solution: Blog Capstone Project Part 3](day67/.)
+
+### Day 68 - Authentication with Flask
+* [Solution: Flask Authentication](day68/.)
