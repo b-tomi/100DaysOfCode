@@ -128,7 +128,7 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 40 - Capstone Part 2: Flight Club
 * [Solution: Flight Club](day40/.)
-* [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/1LvvQmQgI5E7nmIlH7NBpUqWiacESjh4TBvXCn0Z-SWU/edit?usp=sharing)
+* [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/1LvvQmQgI5E7nmIlH7NBpUqWiacESjh4TBvXCn0Z-SWU/edit#gid=1881580289)
 
 ### Day 41 - Web Foundation - Introduction to HTML
 * [Solution: HTML - Personal Site](day41/.)
@@ -215,3 +215,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 68 - Authentication with Flask
 * [Solution: Flask Authentication](day68/.)
+
+### Day 69 - Blog Capstone Project Part 4 - Adding Users
+* [Solution: Blog Capstone Project Part 4](day69/.)

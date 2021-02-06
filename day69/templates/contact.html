@@ -1,0 +1,67 @@
+{% extends 'base.html' %}
+
+{% block title %}Blog Capstone Project Part 3 - Contact{% endblock %}
+
+{% block content %}
+    <!-- Page Header -->
+    <header class="masthead" style="background-image: url('{{ url_for('static', filename='img/contact-bg.jpg') }}')">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <div class="page-heading">
+                        <h1>Contact Me</h1>
+                        <span class="subheading">Have questions? I have answers.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                <p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as
+                    possible!</p>
+                <form action="{{ url_for('contact') }}" id="contactForm" method="POST" name="sentMessage" novalidate>
+                    <div class="control-group">
+                        <div class="form-group floating-label-form-group controls">
+                            <label>Name</label>
+                            <input class="form-control" data-validation-required-message="Please enter your name." id="name" name="name" placeholder="Name" required
+                                   type="text">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="form-group floating-label-form-group controls">
+                            <label>Email Address</label>
+                            <input class="form-control" data-validation-required-message="Please enter your email address." id="email" name="email" placeholder="Email Address"
+                                   required type="email">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>Phone Number</label>
+                            <input class="form-control" data-validation-required-message="Please enter your phone number." id="phone" name="phone" placeholder="Phone Number"
+                                   required type="tel">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="form-group floating-label-form-group controls">
+                            <label>Message</label>
+                            <textarea class="form-control" data-validation-required-message="Please enter a message." id="message" name="message" placeholder="Message"
+                                      required rows="5"></textarea>
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <br>
+                    <div id="success"></div>
+                    <button class="btn btn-primary" id="sendMessageButton" type="submit">Send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+{% endblock %}
