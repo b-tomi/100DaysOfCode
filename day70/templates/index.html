@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+
+{% block title %}Blog Capstone Project Part 4{% endblock %}
+
+{% block content %}
+    <!-- Page Header -->
+    <header class="masthead" style="background-image: url('https://images.unsplash.com/photo-1470092306007-055b6797ca72?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80')">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <div class="site-heading">
+                        <h1>Blog Capstone Project</h1>
+                        <span class="subheading">Part 4</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                {% for post in posts: %}
+                    <div class="post-preview">
+                        <a href="{{ url_for('show_post', blog_id=post['id']) }}">
+                            <h2 class="post-title">{{ post['title'] }}</h2>
+                            <h3 class="post-subtitle">{{ post['subtitle'] }}</h3>
+                        </a>
+                        <p class="post-meta">
+                            Posted by <a href="{{ url_for('about') }}">{{ post['author']['name'] }}</a> on {{ post['date'] }}
+                            {% if current_user.id == 1: %}
+                                <a href="{{ url_for('delete_post', blog_id=post['id']) }}">✘</a>
+                            {% endif %}
+                        </p>
+                    </div>
+                    <hr>
+                {% endfor %}
+
+                <!-- New Post -->
+                {% if current_user.id == 1: %}
+                    <div class="clearfix">
+                        <a class="btn btn-primary float-right" href="{{ url_for('add_post') }}">Create New Post</a>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

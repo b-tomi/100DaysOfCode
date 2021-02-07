@@ -218,3 +218,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 69 - Blog Capstone Project Part 4 - Adding Users
 * [Solution: Blog Capstone Project Part 4](day69/.)
+
+### Day 70 - Deploying Your Web Application with Heroku
+* [Solution: Blog Capstone Project for Heroku](day70/.)

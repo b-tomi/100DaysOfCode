@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block title %}Blog Capstone Project Part 4 - New Blog Post{% endblock %}
+
+{% block content %}
+    <!-- Page Header -->
+    <header class="masthead" style="background-image: url('{{ url_for('static', filename='img/edit-bg.jpg')}}')">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <div class="page-heading">
+                        <h1>{{ heading }}</h1>
+                        <span class="subheading">You're going to make a great blog post!</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                {{ ckeditor.load() }}
+                <!-- specify the fiend for CKEditor -->
+                {{ ckeditor.config(name='body') }}
+                <!-- change the style on the button -->
+                {{ wtf.quick_form(form, novalidate=True, button_map={'submit': 'primary'}) }}
+            </div>
+        </div>
+    </div>
+{% endblock %}
