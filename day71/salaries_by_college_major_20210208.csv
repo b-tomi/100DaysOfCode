@@ -1,0 +1,835 @@
+Rank,Major,Degree Type,Early Career Pay,Mid-Career Pay,% High Meaning
+1,Petroleum Engineering,Bachelors,92300,182000,69
+2,Electrical Engineering & Computer Science (EECS),Bachelors,101200,152300,46
+3,Applied Economics and Management,Bachelors,60900,139600,67
+3,Operations Research,Bachelors,78400,139600,52
+5,Public Accounting,Bachelors,60000,138800,49
+6,Chemical Engineering/Materials Science & Engineering,Bachelors,74500,137800,60
+7,Quantitative Business Analysis,Bachelors,67900,136200,55
+8,Pharmacy,Bachelors,66300,133200,79
+9,Aeronautics & Astronautics,Bachelors,74000,133100,60
+10,Systems Engineering,Bachelors,74000,132900,54
+11,Electrical Power Engineering,Bachelors,73100,130700,67
+12,Actuarial Mathematics,Bachelors,61900,130500,50
+13,Aerospace Studies,Bachelors,50300,130300,-
+14,Chemical Engineering,Bachelors,73500,128900,56
+15,Actuarial Science,Bachelors,64700,128700,42
+16,Information & Computer Science,Bachelors,70300,127600,60
+17,Aeronautical Engineering,Bachelors,71600,125900,64
+18,Operations & Information Systems Management,Bachelors,63800,125100,31
+18,Political Economy,Bachelors,58200,125100,34
+20,Marine Engineering,Bachelors,74700,125000,64
+21,Computer Systems Engineering,Bachelors,74600,124800,49
+22,Nuclear Engineering,Bachelors,73100,124500,63
+23,Computer Science (CS) & Engineering,Bachelors,74000,124000,44
+24,Corporate Accounting & Finance,Bachelors,61200,123600,57
+25,Electrical & Computer Engineering (ECE),Bachelors,73900,123300,49
+26,Computer Engineering (CE),Bachelors,74600,123200,46
+27,Econometrics,Bachelors,60700,123000,30
+28,Building Science,Bachelors,51100,122500,51
+29,Mechatronics,Bachelors,70200,122300,47
+30,Quantitative Economics,Bachelors,62000,121900,45
+31,Foreign Affairs,Bachelors,52200,121800,40
+31,Welding Engineering,Bachelors,76900,121800,44
+33,Economics and Mathematics,Bachelors,65000,121400,33
+33,Electrical Engineering (EE),Bachelors,71800,121400,55
+35,Cognitive Science,Bachelors,64100,121100,41
+35,Control Engineering,Bachelors,69900,121100,63
+37,Geophysics,Bachelors,56900,120600,46
+37,Pharmacology,Bachelors,55000,120600,71
+39,Instrumentation & Control Engineering,Bachelors,69000,120500,-
+40,Computational & Applied Mathematics,Bachelors,69700,120100,43
+40,Marine Transportation Management,Bachelors,67800,120100,47
+42,Aerospace Engineering,Bachelors,70700,119800,57
+43,Ocean Engineering (OE),Bachelors,65100,119700,51
+44,Astronomy,Bachelors,54300,119600,39
+44,Mechanical & Aeronautical Engineering,Bachelors,66900,119600,60
+46,Chemical & Biomolecular Engineering,Bachelors,74000,118700,48
+47,Computer Science (CS) & Mathematics,Bachelors,66800,118500,43
+48,Bioscience,Bachelors,48400,118300,-
+49,Electrical & Electronics Engineering (EEE),Bachelors,71300,118100,55
+50,Metallurgical Engineering,Bachelors,79100,117700,55
+51,Aeronautical/Aerospace Engineering Technology,Bachelors,73400,117500,58
+51,Materials Engineering,Bachelors,69100,117500,48
+53,Accounting & Economics,Bachelors,61600,117400,43
+54,Industrial & Systems Engineering,Bachelors,69900,117300,49
+55,Optical Science & Engineering,Bachelors,67600,117100,65
+56,Computer Science (CS),Bachelors,70700,116500,42
+57,Biomedical Engineering (BME),Bachelors,67700,116300,72
+58,Materials Science,Bachelors,62700,116200,-
+59,Electronics & Communications Engineering,Bachelors,61500,116100,55
+59,Mining Engineering,Bachelors,75200,116100,70
+61,Engineering,Bachelors,66500,116000,59
+62,Applied Mathematics,Bachelors,64400,115500,39
+62,Integrated Science & Technology,Bachelors,62500,115500,56
+64,Petroleum Land Management,Bachelors,60600,115400,70
+65,Bioengineering (BioE),Bachelors,67400,115000,67
+66,Software Engineering,Bachelors,71100,114700,42
+67,Operations Management & Information Systems,Bachelors,61900,114500,39
+68,Statistics,Bachelors,63700,114400,42
+69,Business Analysis,Bachelors,59200,114300,49
+69,Computer & Information Science,Bachelors,60100,114300,55
+71,Physics,Bachelors,62300,113800,49
+72,Physics & Mathematics,Bachelors,61500,113600,47
+73,Physics & Astronomy,Bachelors,54000,112900,43
+74,Construction Engineering Management,Bachelors,64800,112700,55
+75,Physician Assistant Studies,Bachelors,92900,112200,86
+76,Mechanical Engineering (ME),Bachelors,67600,111500,51
+77,Industrial Engineering (IE),Bachelors,68300,111400,45
+78,Entrepreneurship & Marketing,Bachelors,48500,111100,49
+78,Engineering Science,Bachelors,64700,111100,45
+78,International Business & Finance,Bachelors,57700,111100,42
+78,Materials Science & Engineering,Bachelors,69200,111100,47
+82,Ceramic Engineering,Bachelors,66300,110900,45
+82,International Economics,Bachelors,54600,110900,49
+84,Information & Decision Sciences,Bachelors,60600,110800,37
+85,Finance & Marketing,Bachelors,53400,110700,45
+86,Telecommunications Engineering,Bachelors,59800,110600,43
+87,Business & Economics,Bachelors,56800,110500,44
+88,Mathematics & Statistics,Bachelors,59800,110000,42
+89,Paper Science,Bachelors,72400,109900,38
+90,Electronics Engineering,Bachelors,67600,109700,61
+90,Engineering Physics,Bachelors,66700,109700,48
+90,Industrial Distribution,Bachelors,60700,109700,49
+93,Economics,Bachelors,58200,109400,41
+94,Energy Management,Bachelors,64000,109200,66
+94,Structural Engineering (SE),Bachelors,64300,109200,66
+96,Managerial Economics,Bachelors,61500,109100,41
+97,Automotive Engineering,Bachelors,60500,108700,-
+97,Business & Information Technology (IT),Bachelors,58200,108700,46
+97,Japanese Language,Bachelors,50000,108700,41
+100,Japanese Studies,Bachelors,49200,108500,22
+101,Finance & Economics,Bachelors,59800,108100,42
+102,Management Information Systems (MIS),Bachelors,61200,107800,43
+103,Pharmaceutical Sciences (PS),Bachelors,50200,107700,69
+104,Mechanical,Bachelors,66800,107600,55
+105,Applied Physics,Bachelors,63800,107500,56
+105,Information Management,Bachelors,61300,107500,42
+107,Aeronautical Science & Engineering,Bachelors,54300,107100,63
+108,Construction Project Management,Bachelors,57400,107000,59
+108,Packaging Science,Bachelors,66800,107000,37
+110,Industrial Engineering & Management,Bachelors,63200,106900,57
+111,Asian Studies,Bachelors,44000,106400,39
+111,Management Science,Bachelors,60500,106400,41
+113,Accounting & Taxation,Bachelors,53300,105700,43
+114,Manufacturing Engineering,Bachelors,65800,105600,48
+115,Astrophysics,Bachelors,64100,105400,65
+116,Engineering Management,Bachelors,65800,105200,55
+117,Business Economics,Bachelors,54900,105100,42
+117,Information Sciences and Technology,Bachelors,60700,105100,40
+119,Information Systems Management,Bachelors,57600,104800,44
+120,Finance & Investments,Bachelors,60500,104400,41
+121,Environmental Health & Safety Management,Bachelors,58300,104200,64
+121,Rhetoric,Bachelors,49400,104200,46
+121,Strategic Management,Bachelors,62800,104200,45
+124,Robotics & Automation,Bachelors,66500,104100,-
+125,Building Construction (BC),Bachelors,63600,104000,52
+126,Accounting & Computer Systems,Bachelors,60200,103800,42
+126,Construction Science,Bachelors,64000,103800,63
+128,Polymer Science & Engineering,Bachelors,69200,103700,27
+129,Computing,Bachelors,59800,103500,50
+129,Information Security & Assurance,Bachelors,60600,103500,41
+129,Civil Engineering (CE),Bachelors,61700,103500,65
+132,Mathematics,Bachelors,59600,103400,45
+132,Government,Bachelors,52200,103400,49
+134,Biochemistry & Molecular Biology,Bachelors,50500,103300,70
+134,Information Technology Management,Bachelors,59300,103300,48
+136,Finance & Real Estate,Bachelors,58600,103200,45
+137,Construction Engineering,Bachelors,64500,103100,57
+138,Business Logistics & Transportation,Bachelors,54900,102900,48
+138,Construction Management,Bachelors,59700,102900,58
+140,Aeronautical Science,Bachelors,55300,102800,57
+141,Computer Management Information Systems (CMIS),Bachelors,54300,102600,46
+142,Software Applications & Programming,Bachelors,56400,102500,37
+143,Financial Economics,Bachelors,60600,102300,44
+144,Marketing & International Business,Bachelors,49700,102200,35
+145,Informatics,Bachelors,66200,101900,41
+145,Medicine,Bachelors,75500,101900,84
+147,Civil & Environmental Engineering,Bachelors,61800,101800,67
+148,Atmospheric Science,Bachelors,47300,101600,55
+149,Environmental Engineering,Bachelors,59500,101300,64
+150,European Studies,Bachelors,45200,101200,47
+150,Nuclear Engineering Technology (NET),Bachelors,78200,101200,60
+152,Industrial Management,Bachelors,55100,101000,55
+152,Information Systems (IS),Bachelors,59900,101000,45
+154,Sales & Business Marketing,Bachelors,52600,100800,49
+155,Business Computer Information Systems (BCIS),Bachelors,60200,100700,36
+155,Organic Chemistry,Bachelors,46000,100700,-
+157,Business Operations,Bachelors,60500,100600,-
+158,Business Computer Science,Bachelors,50200,100500,-
+159,Business Finance,Bachelors,54600,100300,43
+159,Safety Science,Bachelors,58800,100300,-
+161,Plastics Engineering Technology,Bachelors,63800,100200,31
+162,Business Information Systems,Bachelors,61700,100100,44
+163,International Management,Bachelors,49300,99900,52
+164,Finance,Bachelors,56800,99800,41
+165,Agricultural Economics,Bachelors,53000,99700,59
+166,Economics & Political Science,Bachelors,54200,99400,50
+166,Interactive Media,Bachelors,50200,99400,32
+168,Computer Science & Information Technology,Bachelors,63100,99100,49
+169,Agricultural Engineering (AE),Bachelors,60400,99000,61
+169,Consumer Economics,Bachelors,51200,99000,38
+171,International Business,Bachelors,52100,98900,40
+172,Chinese Language,Bachelors,51200,98700,47
+172,Financial Planning,Bachelors,50400,98700,57
+174,Corporate Finance,Bachelors,61000,98500,43
+175,Architectural Engineering,Bachelors,62400,98400,58
+176,Building Construction Management,Bachelors,58600,98000,59
+177,Engineering Technology (ET),Bachelors,55300,97900,50
+177,Network Engineering,Bachelors,57900,97900,46
+179,Computer Information Systems (CIS),Bachelors,56900,97800,45
+179,International Marketing,Bachelors,56200,97800,18
+179,Psychobiology,Bachelors,45400,97800,64
+182,Electrical Engineering Technology (EET),Bachelors,63100,97700,48
+182,Computer Information Systems,Bachelors,55700,97700,43
+182,Real Estate,Bachelors,56400,97700,38
+182,Molecular Biology,Bachelors,50500,97700,70
+186,Operations Management (OM),Bachelors,58000,97300,43
+187,Cybersecurity,Bachelors,63000,97200,55
+187,Manufacturing,Bachelors,54100,97200,56
+189,Construction Trades,Bachelors,56300,97100,57
+190,International Relations,Bachelors,49900,96800,49
+190,Politics,Bachelors,50600,96800,53
+192,Economics & Management,Bachelors,52700,96600,-
+193,Industrial Hygiene,Bachelors,55800,96200,55
+194,Software Development,Bachelors,61000,96000,44
+194,Telecommunications Management,Bachelors,49800,96000,46
+196,Supply Chain Management,Bachelors,59000,95900,41
+197,Mechanical Engineering Technology (MET),Bachelors,61200,95800,48
+198,Accounting & Auditing,Bachelors,55400,95700,42
+198,Network Security,Bachelors,57500,95700,47
+200,Entrepreneurship & Leadership,Bachelors,52300,95600,46
+200,Geological Engineering,Bachelors,59100,95600,57
+202,Product Design,Bachelors,58600,95500,40
+203,Electronics,Bachelors,57000,95400,61
+203,Food Marketing,Bachelors,54500,95400,25
+203,Safety Management,Bachelors,57400,95400,70
+206,German Studies,Bachelors,47400,95300,43
+206,Industrial & Labor Relations,Bachelors,63800,95300,51
+208,Agricultural Economics & Business,Bachelors,51400,95200,55
+208,Aviation Management,Bachelors,48400,95200,53
+210,Biochemistry (BCH),Bachelors,47500,95100,60
+211,Computer Science (CS) & Business,Bachelors,60800,95000,40
+211,Construction Science & Management,Bachelors,61500,95000,68
+213,Accounting & Finance,Bachelors,55800,94900,45
+213,Comparative Literature,Bachelors,44600,94900,45
+213,International & Comparative Politics,Bachelors,46100,94900,49
+216,East Asian Studies,Bachelors,46900,94800,43
+217,Logistics & Supply Chain Management,Bachelors,56200,94400,46
+217,Russian & Eastern European Studies,Bachelors,50800,94400,-
+219,Occupational Health and Safety,Bachelors,57100,94300,68
+220,Aviation,Bachelors,50000,94000,42
+220,Manufacturing Technology,Bachelors,57100,94000,45
+222,Physical Therapy,Bachelors,53500,93900,90
+222,Labor Relations,Bachelors,48900,93900,39
+224,Government & International Politics (GVIP),Bachelors,49800,93800,46
+224,Information Technology (IT),Bachelors,56100,93800,45
+226,City & Regional Planning,Bachelors,49700,93700,70
+226,Information Science (IS),Bachelors,62600,93700,38
+228,Business & Marketing,Bachelors,47800,93600,44
+229,Agribusiness,Bachelors,48000,93400,53
+229,Management Studies,Bachelors,43500,93400,73
+231,Industrial Design (ID),Bachelors,52100,93100,41
+232,Chemistry,Bachelors,49200,93000,55
+232,Information Technology (IT) & Systems,Bachelors,58600,93000,47
+232,Environmental Health & Safety,Bachelors,54500,93000,67
+235,Electronics Engineering Technology (EET),Bachelors,61600,92900,53
+235,Organizational Behavior,Bachelors,54000,92900,49
+237,Analytical Chemistry,Bachelors,54800,92800,69
+237,Computer Engineering Technology (CET),Bachelors,60100,92800,48
+237,Food Science & Technology,Bachelors,50200,92800,49
+240,Project Management,Bachelors,54100,92700,54
+241,Technical & Scientific Communication,Bachelors,48900,92400,40
+242,Finance & Banking,Bachelors,52600,92300,51
+243,Hotel Administration,Bachelors,61500,92100,43
+243,Mechanical Design,Bachelors,57700,92100,49
+245,Biomedical Sciences,Bachelors,41200,92000,70
+246,International Trade & Business,Bachelors,52300,91900,28
+247,Commerce Economics,Bachelors,51200,91800,31
+248,Latin American Studies,Bachelors,44300,91700,63
+248,Structural Design & Construction Engineering Technology,Bachelors,66500,91700,46
+248,Civil Engineering Technology (CET),Bachelors,55600,91700,62
+251,Government & Politics,Bachelors,50000,91500,49
+252,Aviation Flight Science (AFL),Bachelors,49900,91400,45
+252,Business & Finance,Bachelors,52800,91400,49
+252,Marketing,Bachelors,49200,91400,39
+255,Applied Statistics,Bachelors,62000,91300,46
+255,Biopsychology,Bachelors,50200,91300,73
+255,Industrial Technology (IT),Bachelors,57800,91300,51
+255,Manufacturing Engineering Technology,Bachelors,61500,91300,52
+259,Music Production & Engineering,Bachelors,42100,91100,50
+259,Networks & Telecommunications,Bachelors,52900,91100,57
+261,Chemistry & Environmental Science,Bachelors,46000,91000,67
+261,Microbiology & Immunology,Bachelors,51500,91000,68
+263,Accounts,Bachelors,57000,90900,42
+263,Risk Management,Bachelors,59600,90900,33
+265,Environmental Science & Policy,Bachelors,47300,90700,60
+266,Dairy Science,Bachelors,49500,90600,72
+266,Sales & Marketing,Bachelors,48500,90600,44
+268,Welding Engineering Technology,Bachelors,72000,90400,45
+269,Industrial Psychology,Bachelors,47000,90200,49
+269,Marketing & Management,Bachelors,47200,90200,44
+269,Transportation & Logistics Management,Bachelors,52700,90200,47
+272,Marketing Management,Bachelors,48300,90100,43
+272,Watershed Hydrology & Management,Bachelors,45500,90100,49
+274,Electromechanical Engineering,Bachelors,67100,90000,54
+274,Transportation,Bachelors,59100,90000,50
+276,Advertising Design,Bachelors,49300,89700,29
+276,Management & Finance,Bachelors,52500,89700,53
+276,Risk Management & Insurance,Bachelors,56300,89700,44
+279,Geology,Bachelors,48200,89600,55
+280,Information Assurance,Bachelors,55600,89500,58
+280,Political Science,Bachelors,47900,89500,48
+282,Philosophy,Bachelors,48700,89400,41
+282,Radiation Therapy,Bachelors,65600,89400,91
+284,Cell Biology,Bachelors,48200,89300,61
+284,French Literature,Bachelors,44200,89300,50
+284,Web Design & Development,Bachelors,50600,89300,46
+284,Meteorology,Bachelors,44500,89300,60
+288,Biological Sciences,Bachelors,46200,89200,65
+288,Occupational Therapy (OT),Bachelors,55100,89200,90
+290,Environmental Policy Analysis & Planning,Bachelors,47200,89100,62
+291,Entrepreneurial Studies,Bachelors,46700,88900,35
+291,Financial Accounting,Bachelors,53400,88900,51
+291,Political Science/Public Law,Bachelors,43900,88900,61
+291,Quality Management,Bachelors,53400,88900,64
+295,Aeronautics,Bachelors,59100,88800,65
+295,Applied Computer Science,Bachelors,62900,88800,48
+297,Accounting,Bachelors,51700,88700,42
+297,Broadcasting Technology,Bachelors,40000,88700,-
+297,Food Science,Bachelors,49900,88700,46
+297,Marketing & Communications,Bachelors,46600,88700,43
+301,Urban Planning,Bachelors,48100,88500,54
+301,Manufacturing Management,Bachelors,60400,88500,49
+303,Insurance,Bachelors,53000,88400,42
+304,Business Data Analysis,Bachelors,60400,88300,38
+304,Environmental Design,Bachelors,45400,88300,55
+306,Advertising,Bachelors,44800,88200,33
+306,Cinema Studies,Bachelors,45400,88200,32
+306,Financial Management,Bachelors,51000,88200,51
+309,Advertising & Marketing Communications,Bachelors,46000,88100,36
+309,Operations & Supply Chain Management,Bachelors,57800,88100,44
+311,Computer Information Management,Bachelors,46800,88000,62
+312,Global & International Studies,Bachelors,45900,87800,49
+312,Computing & Information Systems (CIS),Bachelors,50800,87800,42
+312,Architecture,Bachelors,48300,87800,55
+315,Environmental & Natural Resource Economics,Bachelors,49100,87600,60
+316,Labor Studies,Bachelors,44100,87500,49
+317,Aviation Technology,Bachelors,52600,87400,52
+317,Social Ecology,Bachelors,46700,87400,60
+319,Classics,Bachelors,45000,87300,39
+319,Marketing Communication,Bachelors,43600,87300,40
+321,Geographic Information Systems (GIS) & Spatial Analysis,Bachelors,51700,87200,56
+321,Organizational Psychology,Bachelors,48300,87200,45
+323,European History,Bachelors,49700,87100,50
+324,Urban & Regional Planning,Bachelors,47500,87000,59
+325,Real Estate Development,Bachelors,54400,86800,-
+326,Applied Technology,Bachelors,52900,86700,60
+326,Entomology,Bachelors,44000,86700,-
+328,Architectural Engineering Technology,Bachelors,49900,86600,59
+328,Public Affairs,Bachelors,49700,86600,53
+330,Entrepreneurship,Bachelors,51400,86500,45
+331,Business Management & Marketing,Bachelors,45800,86400,47
+332,Digital Arts,Bachelors,43200,86300,32
+333,Industrial Safety,Bachelors,53200,86200,78
+333,Logistics,Bachelors,54800,86200,37
+335,Hotel Management,Bachelors,44500,86100,44
+336,Cell & Molecular Biology,Bachelors,48900,86000,66
+336,Global Business Management,Bachelors,53200,86000,51
+338,Technical Management,Bachelors,57800,85900,65
+338,Computer & Network Administration,Bachelors,54100,85900,47
+340,Police Science,Bachelors,53400,85800,-
+340,Pre-law,Bachelors,44700,85800,46
+342,Business Communication,Bachelors,47600,85600,47
+342,Microbiology,Bachelors,46200,85600,68
+342,Professional Aeronautics,Bachelors,57700,85600,68
+345,Advertising & Promotion,Bachelors,42400,85500,45
+346,Network Systems Administration,Bachelors,53500,85400,50
+347,Construction Technology,Bachelors,55500,85300,47
+348,Electronic & Computer Technology,Bachelors,61300,85000,-
+348,Marketing & Advertising,Bachelors,47200,85000,53
+350,Electronic Systems Technology (EST),Bachelors,61800,84900,-
+351,International Studies,Bachelors,47500,84800,51
+352,Construction Engineering Technology,Bachelors,53000,84700,57
+353,Applied Science,Bachelors,44100,84600,56
+354,Accounting Information Systems,Bachelors,60000,84500,51
+354,Environmental Health,Bachelors,48100,84500,72
+354,Technology,Bachelors,53400,84500,64
+357,Biosystems Engineering,Bachelors,62000,84200,75
+358,Fashion Design,Bachelors,44800,84100,26
+359,Agribusiness Management,Bachelors,47600,84000,46
+359,German Language,Bachelors,48200,84000,41
+361,Professional Pilot Education,Bachelors,59800,83900,-
+361,Textile Technology,Bachelors,51500,83900,31
+363,Manufacturing Systems,Bachelors,71700,83600,-
+364,Diagnostic Medical Ultrasound,Bachelors,60800,83500,70
+364,Marketing & Mass Communications,Bachelors,41800,83500,40
+366,General Business,Bachelors,47600,83400,52
+366,Computer Graphics Technology (CGT),Bachelors,46800,83400,40
+368,Agricultural Systems Technology,Bachelors,54000,83300,58
+368,Health Care,Bachelors,41700,83300,71
+368,Hospital Administration,Bachelors,49600,83300,53
+368,Personal Financial Planning,Bachelors,51200,83300,59
+372,Business Technology Management,Bachelors,52900,83200,48
+373,Health Policy & Administration,Bachelors,48300,83100,65
+374,Math & Science,Bachelors,54400,82900,62
+375,Architectural Design,Bachelors,46000,82800,59
+375,Environmental Science,Bachelors,46500,82800,60
+377,Advertising & Marketing,Bachelors,46300,82700,38
+377,Animation,Bachelors,43100,82700,36
+379,General Science,Bachelors,46900,82600,62
+380,Biology & Chemistry,Bachelors,46700,82500,66
+381,American Studies,Bachelors,49000,82400,50
+381,Product Design Engineering,Bachelors,61500,82400,39
+383,Aviation Maintenance Technology,Bachelors,49800,82300,58
+383,Film Studies,Bachelors,42500,82300,40
+383,Magazine Journalism,Bachelors,44500,82300,26
+386,Web & Digital Media Development,Bachelors,48400,82200,34
+387,Digital Media Design,Bachelors,45200,82000,36
+387,English Literature,Bachelors,45400,82000,45
+387,History & Politics,Bachelors,47200,82000,49
+387,Human Biology,Bachelors,48400,82000,68
+391,Business Management & Human Resources Management (HRM),Bachelors,44700,81900,58
+391,Architectural Technology,Bachelors,44700,81900,56
+391,Design,Bachelors,49400,81900,41
+391,Philosophy & Religion,Bachelors,41800,81900,55
+391,Physiology,Bachelors,46900,81900,62
+396,Business Administration,Bachelors,49700,81700,50
+396,French Studies,Bachelors,49500,81700,53
+396,Land Surveying,Bachelors,48700,81700,56
+399,Management,Bachelors,49000,81600,48
+400,Geographic Information Systems (GIS),Bachelors,47100,81500,53
+400,Interactive Media Design,Bachelors,51800,81500,40
+402,Architectural Studies,Bachelors,43100,81400,42
+403,Business Administration & Accounting,Bachelors,50300,81300,53
+403,Industrial Arts,Bachelors,46500,81300,65
+405,Textile Design,Bachelors,47400,81200,40
+406,Textile & Apparel Studies,Bachelors,43800,81100,28
+407,Accounting & Management,Bachelors,49700,81000,53
+408,Nursing Science,Bachelors,63700,80900,84
+409,Business Management,Bachelors,48800,80800,50
+409,Linguistics,Bachelors,49300,80800,45
+411,Agronomy,Bachelors,49100,80700,64
+411,Corporate Communications,Bachelors,45300,80700,41
+411,Neuroscience,Bachelors,47800,80700,59
+414,Communication Studies & Journalism,Bachelors,42500,80600,49
+415,Sociology & Organizational Studies,Bachelors,48200,80500,54
+416,Nursing,Bachelors,61700,80400,84
+417,Toxicology,Bachelors,43800,80300,-
+417,History,Bachelors,45300,80300,46
+417,Agricultural Science,Bachelors,46900,80300,57
+420,Biology,Bachelors,44500,80200,65
+420,Crop Science,Bachelors,45200,80200,67
+420,French Language,Bachelors,46600,80200,48
+423,Environmental Studies,Bachelors,45900,80100,59
+423,Management (MGT),Bachelors,44800,80100,57
+425,Communication,Bachelors,45300,79900,45
+426,General & Strategic Management,Bachelors,48900,79800,53
+426,Merchandising Management,Bachelors,44200,79800,35
+428,Dental Hygiene,Bachelors,70400,79600,79
+428,Hydrology,Bachelors,45300,79600,-
+430,Global Business,Bachelors,53200,79500,37
+430,Retail & Consumer Science,Bachelors,48500,79500,34
+430,Literature,Bachelors,44400,79500,44
+433,Emergency Management,Bachelors,49600,79400,78
+433,Interpersonal & Organizational Communication,Bachelors,40300,79400,56
+433,Nuclear Medicine,Bachelors,57800,79400,84
+436,History & Political Science,Bachelors,48400,79300,51
+437,Retail Merchandising,Bachelors,48000,79200,33
+438,Agriculture,Bachelors,45300,79100,61
+438,Environmental Management,Bachelors,47300,79100,61
+438,Professional & Technical Writing,Bachelors,46000,79100,46
+441,International Development Studies,Bachelors,45500,79000,64
+441,Workforce Education & Development,Bachelors,57100,79000,74
+441,Journalism & Mass Communication,Bachelors,43700,79000,45
+444,Pre-Medicine,Bachelors,48400,78900,65
+445,Bachelor in Science Nursing,Bachelors,61000,78800,81
+445,Network Technology,Bachelors,54900,78800,57
+447,Theatre & Drama Studies,Bachelors,41500,78600,49
+448,Law,Bachelors,51900,78500,51
+449,Law Enforcement,Bachelors,43800,78400,57
+449,Printing Technology,Bachelors,43800,78400,-
+449,Public Relations & Communication,Bachelors,43600,78400,46
+452,Foreign Languages,Bachelors,47800,78300,57
+452,Interior Architecture,Bachelors,45100,78300,47
+452,Marine Science,Bachelors,44000,78300,58
+452,Public Management,Bachelors,47800,78300,60
+452,Web Development,Bachelors,54100,78300,53
+457,Journalism,Bachelors,43500,78200,45
+457,Landscape Architecture,Bachelors,49000,78200,67
+457,Environmental Geography,Bachelors,47100,78200,52
+460,Bachelor of Science in Nursing,Bachelors,60700,78100,83
+461,Digital Media,Bachelors,44500,78000,39
+461,Welding Technology,Bachelors,46100,78000,-
+463,Nutrition Science,Bachelors,45900,77800,67
+464,Accounting & Business,Bachelors,49400,77600,49
+464,Diagnostic Medical Sonography,Bachelors,62200,77600,85
+466,American History (United States),Bachelors,47800,77500,55
+466,Strategic Communication,Bachelors,44600,77500,42
+468,Public Relations (PR),Bachelors,43000,77400,43
+469,Natural Sciences,Bachelors,41700,77300,51
+470,International Affairs,Bachelors,49100,77200,53
+470,Drama,Bachelors,43900,77200,46
+470,Network Administration,Bachelors,46900,77200,55
+473,Media Studies,Bachelors,48300,77100,36
+474,Organizational Development,Bachelors,51600,77000,52
+474,Writing,Bachelors,41800,77000,43
+476,Integrated Marketing Communications,Bachelors,44600,76900,34
+477,Crisis & Emergency Management,Bachelors,46600,76800,77
+477,Organizational Communication,Bachelors,44000,76800,49
+477,Retailing,Bachelors,48900,76800,27
+477,Speech Communication,Bachelors,43900,76800,55
+481,Allied Health,Bachelors,41800,76700,79
+481,Environmental Biology,Bachelors,43000,76700,66
+481,Nuclear Medicine Technology,Bachelors,58900,76700,81
+484,Apparel & Textile Manufacture,Bachelors,45700,76600,36
+485,Technology Management,Bachelors,53900,76500,45
+486,Film Production,Bachelors,42700,76400,32
+486,Security Management,Bachelors,44800,76400,-
+488,Acting,Bachelors,42200,76200,48
+488,Broadcast & Cinematic Arts,Bachelors,41900,76200,41
+488,Business Management & Administration,Bachelors,48600,76200,53
+488,Marine Biology,Bachelors,40800,76200,61
+488,Professional Studies,Bachelors,42100,76200,64
+488,Romance Languages,Bachelors,50300,76200,54
+494,Computer Animation,Bachelors,44500,76100,31
+495,Cytotechnology,Bachelors,58100,76000,90
+495,Broadcast Journalism,Bachelors,41100,76000,49
+495,Geography,Bachelors,46900,76000,52
+498,Journalism & Electronic Media,Bachelors,42100,75900,50
+499,Automotive Technology,Bachelors,45800,75800,46
+499,Interpersonal Communications,Bachelors,43100,75800,48
+501,Law & Society,Bachelors,44400,75700,50
+502,Agricultural Business,Bachelors,50300,75600,50
+502,Ancient History,Bachelors,43900,75600,-
+504,Computer Aided Design (CAD),Bachelors,46500,75500,-
+504,Computer Art,Bachelors,41200,75500,30
+506,Administration,Bachelors,43100,75400,56
+506,Forestry,Bachelors,44700,75400,66
+508,Urban Studies,Bachelors,48600,75300,56
+509,Business Law,Bachelors,51100,75100,44
+510,Radio/Television & Film Production,Bachelors,42800,75000,39
+511,Digital Design,Bachelors,48200,74800,38
+511,Forensic Science,Bachelors,43800,74800,62
+511,Geosciences,Bachelors,46600,74800,63
+511,Logistics Management,Bachelors,52800,74800,47
+515,Ecology,Bachelors,43500,74700,53
+515,English & History,Bachelors,43600,74700,48
+515,English Language & Literature,Bachelors,43900,74700,44
+518,American Sign Language Interpreting,Bachelors,42500,74600,85
+518,Homeland Security,Bachelors,46800,74600,71
+518,Zoology,Bachelors,40300,74600,67
+521,English Language,Bachelors,42100,74500,47
+522,Human Resources Management (HRM),Bachelors,45300,74400,55
+523,Technical Writing,Bachelors,52000,74300,45
+523,Automotive Technology & Service Management,Bachelors,45400,74300,36
+525,Business Technology,Bachelors,49800,74100,45
+525,Mass Communication,Bachelors,42700,74100,44
+527,Health Sciences,Bachelors,42400,74000,70
+527,Organizational Leadership,Bachelors,47400,74000,56
+529,Musicology,Bachelors,38100,73900,-
+530,Spanish Language,Bachelors,44900,73600,53
+531,Historic Preservation,Bachelors,41300,73500,52
+531,Music Technology,Bachelors,42900,73500,38
+531,Organizational Leadership & Supervision,Bachelors,46400,73500,50
+534,Human Nutrition,Bachelors,45500,73400,84
+534,Spanish Language Teacher Education,Bachelors,43900,73400,-
+536,Botany,Bachelors,40300,73300,72
+537,Apparel Merchandising,Bachelors,45400,73200,35
+538,Environmental Health Science,Bachelors,51400,73100,64
+538,Media & Technology,Bachelors,41400,73100,48
+538,Public Administration,Bachelors,44200,73100,58
+541,Liberal Arts,Bachelors,42500,73000,53
+541,Merchandising,Bachelors,50500,73000,30
+543,Environmental Resource Management,Bachelors,45700,72900,62
+544,Computer Aided Drafting & Design (CADD),Bachelors,46800,72800,54
+544,Forestry Management,Bachelors,44300,72800,73
+546,German Language & Literature,Bachelors,46100,72700,48
+546,Electronics & Computer Technology,Bachelors,51700,72700,-
+548,Administrative Management,Bachelors,50100,72600,50
+548,Cardiopulmonary Science,Bachelors,45800,72600,89
+550,3D Animation,Bachelors,49400,72500,44
+551,Ethnic Studies,Bachelors,44900,72300,62
+552,Adult Education & Training,Bachelors,46200,72200,79
+552,Health Administration,Bachelors,40700,72200,69
+554,Agricultural Communication,Bachelors,42600,72100,51
+554,Organizational Management,Bachelors,46900,72100,57
+556,Multimedia,Bachelors,42800,72000,42
+557,Communication Design,Bachelors,48700,71900,34
+558,Radiologic Science,Bachelors,54900,71800,81
+559,Exercise Physiology,Bachelors,41600,71700,78
+560,Criminal Justice Administration,Bachelors,43700,71600,55
+561,Natural Resource Management,Bachelors,43800,71500,60
+562,Diagnostic Medical Imaging,Bachelors,57900,71400,74
+562,Earth Science,Bachelors,48200,71400,50
+562,Hotel & Restaurant Management,Bachelors,44600,71400,48
+565,Radiology,Bachelors,51600,71300,84
+566,Art History,Bachelors,44400,71200,46
+566,Hospital Management,Bachelors,48500,71200,34
+566,Retail Management,Bachelors,45700,71200,37
+569,English & Psychology,Bachelors,41100,71100,47
+569,Human Resources (HR),Bachelors,44800,71100,54
+569,Management & Organization,Bachelors,53900,71100,68
+569,Painting & Printmaking,Bachelors,32800,71100,41
+569,Visual Effects & Motion Graphics,Bachelors,47400,71100,43
+574,Medical Laboratory Technology,Bachelors,54100,71000,82
+574,Fashion Merchandising,Bachelors,44100,71000,30
+576,Multimedia & Web Design,Bachelors,47500,70900,34
+577,Advertising & Graphic Design,Bachelors,44600,70800,37
+577,Anthropology,Bachelors,43500,70800,46
+577,Broadcast Communication,Bachelors,37900,70800,48
+577,Communication Management,Bachelors,42500,70800,37
+577,Health Care Administration,Bachelors,43600,70800,70
+582,Natural Resources,Bachelors,44900,70700,66
+582,Psychology,Bachelors,42000,70700,56
+582,Visual Communications,Bachelors,43000,70700,37
+585,Applied Behavior Analysis,Bachelors,36900,70600,-
+585,Travel Industry Management,Bachelors,51800,70600,-
+587,Humanities,Bachelors,43800,70500,48
+587,Sociology & Anthropology,Bachelors,41900,70500,48
+587,Communication Arts,Bachelors,40400,70500,41
+590,Creative Writing,Bachelors,42800,70400,43
+591,Anthropology & English,Bachelors,44900,70300,58
+591,Modern Languages,Bachelors,48600,70300,52
+593,Health Care Management,Bachelors,44000,70200,71
+593,Health Teacher Education,Bachelors,35500,70200,52
+593,Radiologic Technology,Bachelors,52100,70200,82
+596,Health & Fitness,Bachelors,38000,70100,67
+597,Animal Science & Management,Bachelors,42100,70000,54
+597,Criminology,Bachelors,42400,70000,54
+597,Hospitality Management,Bachelors,43600,70000,43
+597,Art Administration,Bachelors,36800,70000,58
+597,Human Relations,Bachelors,41100,70000,62
+602,Health Information Management,Bachelors,46200,69900,69
+602,Medical Laboratory Science,Bachelors,53000,69900,84
+604,Liberal Studies,Bachelors,42300,69800,57
+604,Secondary & Middle School Mathematics Teacher Education,Bachelors,43100,69800,71
+606,Fashion Design & Marketing,Bachelors,42200,69700,39
+607,Art & Design,Bachelors,42400,69600,39
+607,Physical Anthropology,Bachelors,49300,69600,39
+607,Sports Management,Bachelors,42900,69600,43
+610,Life Sciences,Bachelors,51900,69400,59
+611,Respiratory Care,Bachelors,52300,69200,84
+612,Audio Engineering,Bachelors,45900,69100,37
+612,Social & Criminal Justice,Bachelors,42300,69100,58
+614,Child Psychology,Bachelors,37100,68900,64
+614,Interior Design,Bachelors,42400,68900,50
+614,Small Business Management,Bachelors,43900,68900,40
+614,Turfgrass Management,Bachelors,47700,68900,49
+618,Medical Technology,Bachelors,53300,68800,80
+618,Religious Studies,Bachelors,41000,68800,57
+620,Hotel & Restaurant Tourism,Bachelors,42500,68700,46
+621,Sociology,Bachelors,43700,68600,54
+622,Arts & Science,Bachelors,43900,68500,68
+622,Secondary Education,Bachelors,42700,68500,62
+622,Speech Pathology & Audiology,Bachelors,41500,68500,77
+625,Theater,Bachelors,42400,68400,48
+626,Archaeology,Bachelors,43900,68300,45
+626,Illustration,Bachelors,42900,68300,36
+626,Radiography,Bachelors,52700,68300,82
+629,Media Arts,Bachelors,44000,68200,39
+630,Clinical Laboratory Science,Bachelors,52400,68100,83
+630,Graphics Technology & Management,Bachelors,38800,68100,36
+630,Psychology & Social Behavior,Bachelors,44100,68100,56
+633,Health Management,Bachelors,42000,68000,68
+633,Media Communication,Bachelors,44300,68000,42
+635,Mass Media,Bachelors,38100,67900,46
+635,Nutrition,Bachelors,45100,67900,68
+637,Performing Arts,Bachelors,42900,67800,52
+638,SocialStudies,Bachelors,43700,67700,57
+639,Italian Language,Bachelors,47800,67600,40
+640,Social Studies,Bachelors,44100,67500,61
+641,Commercial Photography,Bachelors,42000,67300,23
+642,Radio & Television,Bachelors,40800,67200,40
+642,Respiratory Therapy,Bachelors,52300,67200,82
+644,Art Therapy,Bachelors,39200,67100,81
+644,Biological Anthropology,Bachelors,41900,67100,44
+646,Drafting & Design,Bachelors,48900,66800,59
+646,Geomatics,Bachelors,49000,66800,65
+648,Clinical Nutrition,Bachelors,47600,66700,73
+648,Horticulture & Agronomy,Bachelors,46400,66700,58
+650,Graphic Communication,Bachelors,44700,66600,29
+650,Plant Sciences,Bachelors,45800,66600,60
+650,Kinesiology,Bachelors,42100,66600,66
+650,Fire Science,Bachelors,47200,66600,71
+654,Fashion Marketing & Management,Bachelors,45200,66500,30
+654,Music,Bachelors,41800,66500,54
+654,Nutrition & Dietetics,Bachelors,48500,66500,72
+657,Health,Bachelors,41900,66400,73
+657,Legal Studies,Bachelors,44400,66400,49
+659,Criminal Justice,Bachelors,40600,66300,56
+659,Wildlife & Fisheries Science,Bachelors,38300,66300,59
+661,Forensic Psychology,Bachelors,40800,66200,52
+662,Graphic Design,Bachelors,42600,65800,37
+663,Dramatic Art,Bachelors,38900,65700,-
+664,Hospitality & Tourism,Bachelors,41500,65600,41
+664,Religion,Bachelors,41100,65600,62
+664,Pre-Veterinary Medicine,Bachelors,37600,65600,72
+667,Sports Medicine,Bachelors,45700,65400,74
+667,Women's Studies,Bachelors,42700,65400,59
+669,Fine Arts,Bachelors,40400,65300,45
+669,Public Health (PH),Bachelors,43400,65300,70
+671,Modern Language Spanish,Bachelors,41100,65200,51
+671,Museum Studies,Bachelors,37600,65200,47
+673,Business Leadership,Bachelors,47700,65100,46
+673,Dietetics,Bachelors,48700,65100,75
+673,Forensic Accounting,Bachelors,44200,65100,39
+673,Landscape Management,Bachelors,49300,65100,-
+673,Speech-Language Pathology,Bachelors,41700,65100,70
+678,Animal Science,Bachelors,39000,64900,64
+678,Family & Consumer Science,Bachelors,40500,64900,57
+680,Drawing & Painting,Bachelors,40600,64500,48
+680,Music Industry,Bachelors,44400,64500,38
+680,Technical Theatre,Bachelors,39100,64500,41
+683,Foods & Nutrition,Bachelors,45000,64400,70
+683,Physical Therapist Assistant Studies,Bachelors,49100,64400,85
+683,Recreation Management,Bachelors,40300,64400,58
+686,Interdisciplinary Studies (IS),Bachelors,42200,64200,56
+687,Education,Bachelors,41800,64100,67
+688,Applied Linguistics,Bachelors,44100,64000,40
+689,Applied Sociology,Bachelors,40100,63800,57
+689,Business & Healthcare Management,Bachelors,44700,63800,67
+691,Music Composition,Bachelors,42300,63700,51
+691,Physical Education & Exercise Science,Bachelors,41000,63700,78
+693,Behavioral Science,Bachelors,40400,63500,61
+694,Psychology & Sociology,Bachelors,40600,63400,52
+695,General Studies,Bachelors,41200,63300,53
+696,Culinary Arts & Culinary Management,Bachelors,36100,63200,51
+696,Theatre Arts,Bachelors,40900,63200,49
+698,Technology Teacher Education,Bachelors,46400,63100,47
+699,Art,Bachelors,40600,63000,46
+699,Textiles & Clothing,Bachelors,42900,63000,46
+701,Video Production,Bachelors,42800,62800,38
+702,Training and Development,Bachelors,50200,62500,-
+703,Theology,Bachelors,39300,62300,69
+703,Restaurant & Food Service Management,Bachelors,41500,62300,45
+705,Missions,Bachelors,41400,62200,-
+706,Event Management,Bachelors,39500,62100,42
+707,Clinical Psychology,Bachelors,40900,62000,66
+707,Developmental Psychology,Bachelors,31000,62000,-
+707,Physical Education Teaching,Bachelors,39600,62000,71
+707,Theatre,Bachelors,39700,62000,48
+711,Sports Administration,Bachelors,41200,61900,53
+712,Drawing,Bachelors,36400,61800,35
+712,Health & Exercise Science,Bachelors,40100,61800,67
+714,Agricultural Teacher Education,Bachelors,51000,61700,53
+715,Graphic Arts,Bachelors,41100,61600,39
+715,New Media,Bachelors,44700,61600,32
+717,Health Services Administration,Bachelors,40800,61500,64
+718,Interior Design & Merchandising,Bachelors,40800,61400,38
+719,Exercise Science,Bachelors,38900,61300,73
+720,Electronic Media,Bachelors,43700,61200,38
+720,Exercise & Sports Science,Bachelors,40400,61200,70
+720,Psychiatry,Bachelors,54700,61200,-
+720,Supervision & Management,Bachelors,39400,61200,57
+724,African American & African Studies,Bachelors,43600,61100,61
+725,Culture Studies,Bachelors,44800,61000,41
+725,Printmaking,Bachelors,36800,61000,41
+725,Secondary English Teacher Education,Bachelors,40000,61000,67
+728,Community Health Education,Bachelors,40200,60900,75
+728,Culinary Arts,Bachelors,36700,60900,46
+730,Wildlife Management,Bachelors,37800,60800,49
+730,Psychology & Philosophy,Bachelors,45400,60800,40
+732,Mortuary Science,Bachelors,40600,60700,81
+733,Paralegal Studies,Bachelors,37700,60600,51
+734,Health Studies,Bachelors,40600,60500,65
+734,Social Psychology,Bachelors,44400,60500,55
+736,Health Services Management,Bachelors,39300,60400,83
+737,Emergency Medical Services (EMS),Bachelors,41600,60300,-
+737,Recording Arts,Bachelors,40500,60300,44
+739,English Teacher Education,Bachelors,41300,60200,56
+739,Social Science Teacher Education,Bachelors,42100,60200,-
+739,Social Studies Teacher Education,Bachelors,42400,60200,65
+742,Music Teacher Education,Bachelors,39100,60000,66
+742,Photography,Bachelors,41500,60000,38
+744,Teaching English as a Second Language (ESL),Bachelors,41600,59900,75
+744,Health & Physical Education Teaching,Bachelors,37000,59900,64
+746,Human Development,Bachelors,40700,59700,65
+746,Painting,Bachelors,38700,59700,44
+746,Radio Broadcasting,Bachelors,43200,59700,-
+746,Recreational Studies,Bachelors,40500,59700,68
+750,Speech Pathology,Bachelors,40500,59500,70
+751,Recreation Administration,Bachelors,45000,59400,70
+752,Dance,Bachelors,42600,59200,61
+753,Recreation & Leisure Studies,Bachelors,38800,59100,63
+754,Arts Management,Bachelors,37400,59000,44
+754,University Studies,Bachelors,40000,59000,51
+754,Photojournalism,Bachelors,39700,59000,66
+757,Organizational Administration,Bachelors,42900,58900,-
+758,Health & Medical Services Administration,Bachelors,37900,58800,83
+758,Tourism Management,Bachelors,40600,58800,38
+758,Communicative Disorders,Bachelors,45200,58800,73
+761,Sculpture,Bachelors,38400,58700,44
+762,Consumer Affairs,Bachelors,49200,58600,48
+762,Social Services,Bachelors,38000,58600,80
+764,Community Health,Bachelors,42900,58500,69
+764,Justice Studies,Bachelors,43300,58500,50
+764,Landscape Design,Bachelors,48900,58500,65
+767,Horticulture,Bachelors,41300,57800,60
+767,Wildlife Biology,Bachelors,41000,57800,59
+769,Gender Studies,Bachelors,43100,57700,55
+770,Nonprofit Management,Bachelors,40400,57200,77
+771,Athletic Training,Bachelors,39700,57000,76
+772,Human Development & Family Studies,Bachelors,38300,56800,66
+773,Biblical Studies,Bachelors,38700,56700,73
+773,Health Promotion,Bachelors,40000,56700,69
+775,Home Economics,Bachelors,38200,56500,65
+775,Theatre Studies,Bachelors,43100,56500,51
+777,Teaching,Bachelors,39600,56400,72
+778,Counseling Psychology,Bachelors,39200,56200,65
+778,Health & Human Performance,Bachelors,36200,56200,69
+780,Library & Information Science,Bachelors,44700,56000,54
+781,Art Teacher Education,Bachelors,37500,55900,62
+781,Hospitality & The Culinary Arts,Bachelors,37400,55900,-
+781,Musical Theatre,Bachelors,41800,55900,46
+784,Clinical Social Work (CSW),Bachelors,41700,55800,-
+785,Biblical Studies & Practical Ministries,Bachelors,35100,55700,78
+785,Rehabilitation Services,Bachelors,34100,55700,79
+787,Parks & Recreation Management,Bachelors,40600,55600,57
+787,Pastoral Ministry,Bachelors,37300,55600,84
+789,Legal Assistant Studies,Bachelors,36400,55500,39
+790,Applied Management,Bachelors,43600,55400,-
+791,Social Welfare,Bachelors,44900,55300,71
+791,Tourism & Travel,Bachelors,40600,55300,40
+791,Vocal Performance,Bachelors,38900,55300,65
+794,Audio Production,Bachelors,43700,54700,37
+794,Bible Studies & Theology,Bachelors,38100,54700,66
+796,Church Ministries,Bachelors,38100,54600,82
+797,Family Studies,Bachelors,35900,54500,71
+797,Special Education,Bachelors,39200,54500,78
+799,Ceramics,Bachelors,39900,54400,48
+799,Communication Sciences & Disorders,Bachelors,40900,54400,76
+799,Family & Community Services,Bachelors,38500,54400,74
+802,Speech & Hearing,Bachelors,41400,54300,79
+803,Community Development,Bachelors,42100,53900,65
+804,Health and Human Services,Bachelors,41500,53700,66
+805,Office Management,Bachelors,37800,53400,50
+806,Psychology & Human Services,Bachelors,35000,53300,78
+807,History Teacher Education,Bachelors,45400,53000,45
+808,Youth Ministry,Bachelors,35300,52300,82
+808,Therapeutic Recreation,Bachelors,37700,52300,82
+810,Community & Human Services,Bachelors,40500,52100,78
+811,Christian Ministry,Bachelors,35500,52000,80
+812,Elementary Education,Bachelors,37700,51600,71
+812,Social Work (SW),Bachelors,36600,51600,77
+814,Office Administration,Bachelors,38200,51200,61
+815,Voice & Opera,Bachelors,32900,50800,61
+816,Elementary Teaching,Bachelors,34400,50700,76
+816,Human Services (HS),Bachelors,36600,50700,70
+818,Baking & Pastry Arts,Bachelors,36000,50600,47
+819,Human Services Management,Bachelors,43500,50500,-
+820,Counseling,Bachelors,37100,49300,78
+821,Recreational Therapy,Bachelors,36400,49200,82
+822,Child Development,Bachelors,35500,49100,76
+823,Middle School Education,Bachelors,39000,48300,73
+824,Educational Psychology,Bachelors,34600,47600,-
+825,Early Childhood & Elementary Education,Bachelors,36200,46500,78
+826,Rehabilitation Counseling,Bachelors,38000,46100,-
+827,Addiction Studies,Bachelors,36300,44800,83
+828,Outdoor Education,Bachelors,35800,44200,57
+829,Child & Family Studies,Bachelors,34100,43600,74
+830,Early Childhood Education,Bachelors,34100,43300,78
+831,Mental Health,Bachelors,35200,42500,-
+832,Medical Assisting,Bachelors,35100,42300,-
+833,Addictions Counseling,Bachelors,38800,42200,-
+834,Metalsmithing,Bachelors,38300,38400,32

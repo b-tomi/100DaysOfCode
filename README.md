@@ -221,3 +221,7 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 70 - Deploying Your Web Application with Heroku
 * [Solution: Blog Capstone Project for Heroku](day70/.)
+
+### Day 71 - Data Exploration with Pandas: College Major v.s. Your Salary
+* [Solution: Day 71 Notebook](day71/Day71.ipynb)
+* [Solution: Day 71 Extra Credit](day71/Day71ExtraCredit.ipynb)
