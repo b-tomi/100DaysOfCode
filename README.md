@@ -225,3 +225,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 ### Day 71 - Data Exploration with Pandas: College Major v.s. Your Salary
 * [Solution: Day 71 Notebook](day71/Day71.ipynb)
 * [Solution: Day 71 Extra Credit](day71/Day71ExtraCredit.ipynb)
+
+### Day 72 - Data Visualisation with Matplotlib: Programming Languages
+* [Solution: Day 72 Notebook](day72/Day72.ipynb)
