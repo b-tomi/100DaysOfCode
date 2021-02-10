@@ -228,3 +228,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 72 - Data Visualisation with Matplotlib: Programming Languages
 * [Solution: Day 72 Notebook](day72/Day72.ipynb)
+
+### Day 73 - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+* [Solution: Day 73 Notebook](day73/Day73.ipynb)
