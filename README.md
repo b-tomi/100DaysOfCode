@@ -231,3 +231,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 73 - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
 * [Solution: Day 73 Notebook](day73/Day73.ipynb)
+
+### Day 74 - Google Trends Data: Resampling and Visualising Time Series
+* [Solution: Day 74 Notebook](day74/Day74.ipynb)
