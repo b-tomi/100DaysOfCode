@@ -237,3 +237,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 75 - Beautiful Plotly Charts & Analysing the Android App Store
 * [Solution: Day 75 Notebook](day75/Day75.ipynb)
+
+### Day 76 - Computation with NumPy and N-Dimensional Arrays
+* [Solution: Day 76 Notebook](day76/Day76.ipynb)
