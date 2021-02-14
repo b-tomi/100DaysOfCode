@@ -240,3 +240,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 76 - Computation with NumPy and N-Dimensional Arrays
 * [Solution: Day 76 Notebook](day76/Day76.ipynb)
+
+### Day 77 - Linear Regression and Data Visualisation with Seaborn
+* [Solution: Day 77 Notebook](day77/Day77.ipynb)
