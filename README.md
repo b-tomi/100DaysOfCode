@@ -243,3 +243,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 77 - Linear Regression and Data Visualisation with Seaborn
 * [Solution: Day 77 Notebook](day77/Day77.ipynb)
+
+### Day 78 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+* [Solution: Day 78 Notebook](day78/Day78.ipynb)
