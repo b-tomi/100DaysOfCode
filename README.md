@@ -246,3 +246,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 78 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 * [Solution: Day 78 Notebook](day78/Day78.ipynb)
+
+### Day 79 - The Tragic Discovery of Handwashing: t-Tests & Distributions
+* [Solution: Day 79 Notebook](day79/Day79.ipynb)
