@@ -249,3 +249,6 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 79 - The Tragic Discovery of Handwashing: t-Tests & Distributions
 * [Solution: Day 79 Notebook](day79/Day79.ipynb)
+
+### Day 80 - Capstone Project - Predict House Prices
+* [Solution: Day 80 Notebook](day80/Day80.ipynb)
