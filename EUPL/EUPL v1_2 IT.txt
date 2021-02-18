@@ -1,0 +1,95 @@
+﻿LICENZA PUBBLICA DELL'UNIONE EUROPEA v. 1.2 
+EUPL © Unione europea 2007, 2016 
+La presente Licenza Pubblica dell'Unione europea («EUPL») si applica a tutte le opere, come definite di seguito, fornite alle condizioni di cui alla presente licenza. È vietata l'utilizzazione dell'opera in forme diverse da quelle autorizzate dalla presente licenza (nella misura in cui tale utilizzazione sia riservata in via esclusiva al titolare dei diritti d'autore sull'opera). L'opera è fornita alle condizioni della presente licenza se il licenziante (come definito di seguito) ha posto la seguente dicitura immediatamente dopo l'avviso sui diritti d'autore sull'opera: 
+                               Concesso in licenza a norma dell'EUPL 
+o ha espresso con qualunque altro mezzo la propria volontà di cederla in licenza alle condizioni dell'EUPL. 
+
+1 Definizioni 
+Nella presente licenza i seguenti termini sono così definiti:  
+— Licenza: la presente licenza.  
+— Opera originaria: l'opera o il software distribuiti o comunicati dal licenziante alle condizioni della presente licenza, disponibile sotto forma di codice sorgente e, a seconda dei casi, anche sotto forma di codice eseguibile.  
+— Opere derivate: le opere o il software che possono essere creati dal licenziatario sulla base dell'opera originaria o di una sua modificazione. La presente licenza non definisce quale grado di modificazione o di dipendenza rispetto all'opera originaria sia prescritto per caratterizzare un'opera come opera derivata; tale questione è disciplinata dalla legge sul diritto d'autore applicabile nel paese indicato all'articolo 15.  
+— Opera: l'opera originaria o le opere da essa derivate.  
+— Codice sorgente: forma leggibile dell'opera che risulta la più appropriata per essere studiata e modificata dall'uomo.  
+— Codice eseguibile: il codice che in genere è stato compilato e che è destinato a essere eseguito come programma da un computer.  
+— Licenziante: la persona fisica o giuridica che distribuisce o comunica l'opera secondo i termini della licenza.  — Contributore/i:la persona fisica o giuridica che modifica l'opera secondo i termini della licenza o altrimenti contribuisce alla creazione di un'opera derivata.  
+— Licenziatario :la persona fisica o giuridica che fa uso del programma secondo i termini della licenza.
+— Distribuzione o comunicazione: la vendita, la cessione a titolo gratuito, il prestito, la locazione, la distribuzione, la comunicazione, la trasmissione o qualsiasi altro atto finalizzato a mettere copie dell'opera a disposizione di altre persone fisiche o giuridiche, o fornire loro accesso alle sue funzionalità essenziali, online o offline. 
+
+2 Estensione dei diritti concessi dalla licenza 
+Il licenziante concede al licenziatario, per tutta la durata del diritto d'autore sull'opera originaria, una licenza mondiale, gratuita, non esclusiva, a sua volta cedibile in sublicenza, che conferisce il diritto di compiere gli atti seguenti: 
+— utilizzare l'opera in qualsiasi circostanza e per ogni utilizzo, 
+— riprodurre l'opera, 
+— modificare l'opera e creare opere derivate basate su di essa, 
+— comunicare al pubblico, anche mediante messa a disposizione o esposizione dell'opera o di copie della stessa e, a seconda dei casi, rappresentare l'opera in forma pubblica, 
+— distribuire l'opera o copie della stessa, 
+— cedere in prestito e in locazione l'opera o copie della stessa, 
+— concedere in sublicenza i diritti sull'opera o copie della stessa. 
+I diritti suddetti possono essere esercitati con qualsiasi mezzo di comunicazione, su qualsiasi supporto e in qualsiasi formato, attualmente noto o che sarà successivamente inventato, nella misura consentita dal diritto applicabile. Nei paesi in cui si applicano i diritti morali di autore, il licenziante rinuncia al diritto di esercitare i suoi diritti morali nella misura consentita dalla legge affinché la cessione in licenza dei diritti patrimoniali sopra indicati possa produrre tutti i suoi effetti. Il licenziante concede al licenziatario, a titolo gratuito e non esclusivo, il diritto di utilizzare qualsiasi brevetto detenuto dal licenziante, nella misura necessaria all'esercizio dei diritti di utilizzazione dell'opera concessi dalla presente licenza. 
+
+3 Comunicazione del codice sorgente
+Il licenziante può fornire l'opera o sotto forma di codice sorgente o come codice eseguibile. Se l'opera è fornita come codice eseguibile, il licenziante fornisce, in aggiunta, una copia leggibile dall'elaboratore del codice sorgente dell'opera a corredo di ogni copia dell'opera da lui distribuita oppure indica, in un avviso che segue l'avviso sui diritti d'autore apposto sull'opera, un archivio in cui il codice sorgente è facilmente e gratuitamente accessibile per tutto il periodo in cui il licenziante distribuisce o comunica l'opera. 
+
+4 Limitazioni del diritto d'autore 
+Nessuna clausola della presente licenza è finalizzata a impedire al licenziatario di beneficiare di tutte le eccezioni o limitazioni applicabili ai diritti esclusivi dei titolari dei diritti sull'opera, dell'esaurimento di tali diritti o di qualsiasi altra limitazione applicabile. 
+
+5 Obblighi del licenziatario 
+La concessione dei diritti sopra indicati è soggetta ad alcune restrizioni e obblighi in capo al licenziatario. Gli obblighi sono i seguenti: 
+
+Diritto di attribuzione: il licenziatario lascia intatti tutti gli avvisi relativi ai diritti d'autore, ai brevetti o ai marchi e tutte le indicazioni che fanno riferimento alla licenza e all'esclusione della garanzia. Ogni copia dell'opera che il licenziatario distribuisce o comunica deve essere corredata di una copia di tali avvisi e di una copia della licenza. Su tutte le opere derivate il licenziatario deve apporre o far apporre avvisi ben visibili indicanti che l'opera è stata modificata e la data della modificazione. 
+
+Clausola «copyleft»: se il licenziatario distribuisce o comunica copie delle opere originarie o delle opere derivate, la distribuzione o comunicazione ha luogo nell'osservanza delle clausole della presente licenza o di una sua versione successiva a meno che l'opera originaria venga esplicitamente distribuita solo nel quadro della presente versione della licenza, ad esempio mediante la comunicazione «solo EUPL v. 1.2». Il licenziatario (che in tal caso diventa licenziante) non può offrire né imporre termini o condizioni ulteriori sull'opera o sulle opere derivate che alterino o restringano le condizioni della licenza. 
+
+Clausola di compatibilità: se il licenziatario distribuisce o comunica le opere derivate o copie delle opere derivate basate sull'opera e su un'altra opera concessa in licenza secondo le condizioni di una licenza compatibile, la distribuzione o comunicazione può avvenire nell'osservanza delle clausole della licenza compatibile. Ai fini dell'applicazione della presente clausola, l'espressione «licenza compatibile» si riferisce alle licenze enumerate nell'allegato della presente licenza. In caso di conflitto tra gli obblighi del licenziatario a norma della licenza compatibile e i suoi obblighi a norma della presente licenza, prevalgono gli obblighi prescritti dalla licenza compatibile. 
+
+Fornitura del codice sorgente: se distribuisce o comunica copie dell'opera, il licenziatario fornirà copia del codice sorgente in formato leggibile dall'elaboratore oppure indicherà un archivio in cui tale codice sorgente è facilmente e liberamente accessibile, per tutto il tempo in cui distribuisce o comunica l'opera. 
+
+Tutela dei diritti: la presente licenza non autorizza a fare uso di nomi commerciali, di marchi distintivi di prodotti o servizi o dei nomi dei licenzianti, se non nei limiti necessari ad una utilizzazione ragionevole e conforme agli usi per descrivere l'origine dell'opera e riprodurre il contenuto dell'avviso relativo al diritto d'autore. 
+
+6 Autori e contributori 
+Il licenziante originario garantisce che i diritti d'autore sull'opera originaria concessi a norma della presente licenza sono di sua proprietà ovvero gli sono concessi in licenza e che dispone del diritto e del potere di concedere la licenza. Ciascun contributore garantisce che i diritti d'autore sulle modifiche che egli apporta all'opera sono di sua proprietà o che gli sono concessi in licenza e che dispone del diritto e del potere di concedere la licenza. Ogni volta che il licenziatario accetta la licenza, il licenziante originario e i contributori successivi concedono al licenziatario una licenza sui loro contributi all'opera, secondo le condizioni della presente licenza. 
+
+7 Esclusione della garanzia 
+L'opera è un'opera in divenire, che viene costantemente migliorata grazie all'apporto di diversi contributori. Non si tratta di un'opera finita e può pertanto contenere difetti o errori inerenti a questo tipo di sviluppo. Per tale ragione, l'opera è concessa in licenza «così com'è» e senza garanzie di alcun genere, ivi incluse, tra le altre, quelle relative all'utilizzazione commerciale, all'idoneità a soddisfare una determinata funzione, all'assenza di difetti o errori, all'accuratezza, all'efficacia, alla non violazione di diritti di proprietà intellettuale diversi dal diritto d'autore come indicato all'articolo 6 della presente licenza. La presente esclusione di garanzia costituisce parte integrante della licenza e condizione per la concessione di qualsiasi diritto sull'opera. 
+
+8 Esclusione di responsabilità 
+Salvi i casi di comportamenti dolosi o di danni direttamente arrecati a persone fisiche, in nessun caso il licenziante può essere ritenuto responsabile per i danni, di qualsiasi natura, diretti o indiretti, materiali o morali, derivanti dalla licenza o dall'utilizzazione dell'opera, ivi inclusi, tra gli altri, i danni per perdita di avviamento, interruzione del lavoro, guasto o malfunzionamento del computer, perdita di dati e qualsiasi danno commerciale, anche nel caso in cui il licenziante fosse stato informato che tali danni avrebbero potuto verificarsi. Tuttavia, il licenziante sarà ritenuto responsabile a norma delle leggi sulla responsabilità da prodotto in quanto applicabili all'opera. 
+
+9 Altre pattuizioni 
+All'atto della distribuzione dell'opera, il licenziatario ha facoltà di stipulare pattuizioni aggiuntive, definendo gli obblighi o i servizi compatibili con la presente licenza. Tuttavia, nell'accettare tali obblighi, il licenziatario agisce esclusivamente in nome proprio e sotto propria esclusiva responsabilità, e non in nome del licenziante originario o di qualsiasi altro contributore, e solo subordinatamente all'assunzione dell'impegno a risarcire, difendere e tenere indenne ciascun contributore da eventuali responsabilità o richieste risarcitorie rivolte allo stesso contributore in conseguenza delle garanzie o responsabilità aggiuntive assunte dal licenziatario. 
+
+10 Accettazione della licenza Le clausole della presente licenza possono essere accettate cliccando sull'icona «Accetto» posta sotto una finestra che fa apparire il testo della presente licenza o prestando consenso in qualsiasi altro modo simile, conformemente alle disposizioni di legge applicabili. Cliccando su tale icona il licenziatario manifesta la chiara e irrevocabile accettazione della presente licenza e di tutti i suoi termini e condizioni. Analogamente accetta irrevocabilmente la presente licenza e tutti i suoi termini e condizioni esercitando i diritti concessi dall'articolo 2 della presente Licenza, quali l'utilizzazione dell'opera, la creazione di un'opera derivata o la distribuzione o comunicazione dell'opera o di copie della stessa. 
+
+11 Informazione del pubblico
+Se il licenziatario procede alla distribuzione o comunicazione dell'opera mediante strumenti di comunicazione elettronica (ad esempio, offrendo di scaricare l'opera da un luogo remoto), il canale di distribuzione o i mezzi di comunicazione (ad esempio un sito web) dovranno fornire al pubblico come minimo le informazioni prescritte dalla normativa applicabile in relazione al licenziante, alla licenza e al modo in cui essa può essere resa accessibile, accettata, conservata e riprodotta da parte del licenziatario. 
+
+12 Cessazione della licenza 
+La licenza e i diritti da essa concessi cesseranno automaticamente di avere effetto ove il licenziatario violi una qualsiasi delle condizioni previste dalla licenza. Tale cessazione non comporterà cessazione delle licenze concesse a persone che abbiano ricevuto l'opera dal licenziatario a norma della licenza, sempreché tali persone ottemperino integralmente alle clausole della licenza stessa. 
+
+13 Varie 
+Ferme restando le disposizioni dell'articolo 9, la licenza costituisce l'accordo integrale tra le parti in merito all'opera. Le clausole della licenza che risultino nulle o non possano essere fatte valere in base alla normativa applicabile non incideranno sulla validità o sull'applicabilità della licenza nel suo complesso. Le clausole in questione saranno interpretate o modificate nella misura necessaria a renderle valide e applicabili. La Commissione europea può pubblicare altre versioni linguistiche o nuove versioni della presente licenza o versioni aggiornate dell'Appendice, nella misura in cui ciò sia necessario e ragionevole, senza ridurre la portata dei diritti accordati dalla licenza. Le nuove versioni della licenza saranno pubblicate con un numero di versione univoco. Tutte le versioni linguistiche della presente licenza, approvate dalla Commissione europea, hanno valore identico. Le parti possono utilizzare la versione linguistica di loro scelta. 
+
+14 Competenza giurisdizionale 
+Fatti salvi accordi specifici tra le parti: 
+— per qualsiasi controversia in ordine all'interpretazione della presente licenza che insorga tra le istituzioni, gli organismi, gli uffici e le agenzie dell'Unione, nella qualità di licenziante, e il licenziatario è competente la Corte di giustizia dell'Unione europea, a norma dell'articolo 272 del trattato sul funzionamento dell'Unione europea; 
+— per qualsiasi controversia che insorga tra altre parti in ordine all'interpretazione della presente licenza è esclusivamente competente il tribunale del luogo in cui il licenziante risiede o esercita la sua attività principale. 
+
+15 Legge applicabile 
+Fatti salvi accordi specifici tra le parti: 
+— la presente Licenza è disciplinata dalla legge dello Stato membro dell'Unione europea nel quale il licenziante è stabilito, risiede o ha la propria sede sociale; 
+— la presente licenza è disciplinata dalla legge belga ove il licenziante non sia stabilito, non risieda o non abbia la propria sede sociale in uno Stato membro dell'Unione europea.
+
+Appendice 
+«Licenze compatibili» ai sensi dell'articolo 5 EUPL sono le seguenti: 
+—  GNU General Public License (GPL) v. 2, v. 3 
+—  GNU Affero General Public License (AGPL) v. 3 
+—  Open Software License (OSL) v. 2.1, v. 3.0 
+—  Eclipse Public License (EPL) v. 1.0 
+—  CeCILL v. 2.0, v. 2.1 
+—  Mozilla Public Licence (MPL) v. 2 
+—  GNU Lesser General Public Licence (LGPL) v. 2.1, v. 3 
+—  Creative Commons Attribution-ShareAlike v. 3.0 Unported (CC BY-SA 3.0) per le opere diverse dal software 
+—  European Union Public Licence (EUPL) v. 1.1, v. 1.2 
+—  Québec Free and Open-Source Licence — Reciprocity (LiLiQ-R) or Strong Reciprocity (LiLiQ-R+).
+La Commissione può aggiornare la presente Appendice per tener conto delle versioni più recenti delle licenze summenzionate senza produrre una nuova versione dell'EUPL, purché esse garantiscano i diritti concessi dall'articolo 2 della presente licenza e proteggano il codice sorgente coperto dall'appropriazione esclusiva.
+Tutte le altre modifiche o aggiunte a tale Appendice richiedono la produzione di una nuova versione dell'EUPL.
