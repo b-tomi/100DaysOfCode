@@ -252,6 +252,10 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 
 ### Day 80 - Capstone Project - Predict House Prices
 * [Solution: Day 80 Notebook](day80/Day80.ipynb)
+---
+### Day 81 - Professional Portfolio Project - Python Scripting
+* [Assignment Instructions](day81/README.md)
+* [Text to Morse Code Converter Project](day81/.)
 
 ## License
 Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12) or later.
