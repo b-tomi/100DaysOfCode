@@ -254,8 +254,11 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 * [Solution: Day 80 Notebook](day80/Day80.ipynb)
 ---
 ### Day 81 - Professional Portfolio Project - Python Scripting
-* [Assignment Instructions](day81/README.md)
 * [Text to Morse Code Converter Project](day81/.)
+
+### Day 82 - Professional Portfolio Project - Python Web Development
+* [Temporary Landing Page Project](day82/.)
+* [Live Website](https://portfolio.bodon.dev/100DaysOfCodeDay82)
 
 ## License
 Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12) or later.

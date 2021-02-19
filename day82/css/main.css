@@ -1,0 +1,162 @@
+/*
+ * Globals
+ */
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff; }
+
+/* Custom default button */
+.btn-default {
+  color: #fff;
+  text-shadow: none;
+  /* Prevent inheritence from `body` */
+  background-color: transparent;
+  border: 2px solid #fff;
+  border-radius: 20px;
+  padding: 0.5rem 2rem; }
+
+.btn-default:hover,
+.btn-default:focus {
+  background-color: rgba(255, 255, 255, 0.3); }
+
+/*
+ * Base structure
+ */
+html,
+body {
+  height: 100%; }
+
+body {
+  background: url(../img/cover.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif; }
+
+/* Extra markup and styles for table-esque vertical and horizontal centering */
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%;
+  /* For at least Firefox */
+  min-height: 100%;
+  background: rgba(48, 53, 70, 0.5);
+  box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.5); }
+
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top; }
+
+.cover-container {
+  margin-right: auto;
+  margin-left: auto; }
+
+/* Padding for spacing */
+.inner {
+  padding: 30px; }
+
+/*
+ * Header
+ */
+.masthead-brand {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+.nav-masthead {
+  text-align: center;
+  display: block; }
+
+.nav-masthead .nav-link {
+  display: inline-block; }
+
+@media (min-width: 768px) {
+  .masthead-brand {
+    float: left; }
+  .nav-masthead {
+    float: right; } }
+
+/*
+ * Cover
+ */
+.cover {
+  padding: 0 20px; }
+
+.cover .btn-notify {
+  padding: 10px 60px;
+  font-weight: 500;
+  text-transform: uppercase;
+  border-radius: 40px; }
+
+.cover-heading {
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-size: 2rem;
+  margin-bottom: 5rem; }
+
+@media (min-width: 768px) {
+  .cover-heading {
+    font-size: 3.4rem;
+    letter-spacing: 15px; } }
+
+.cover-copy {
+  max-width: 500px;
+  margin: 0 auto 3rem; }
+
+/*
+ * Footer
+ */
+.mastfoot {
+  color: #999;
+  /* IE8 proofing */
+  color: rgba(255, 255, 255, 0.5); }
+
+/*
+ * Subscribe modal box
+ */
+#subscribeModal .modal-content {
+  background-color: #303546;
+  color: #fff;
+  text-align: left; }
+
+#subscribeModal .modal-header, #subscribeModal .modal-footer {
+  border: 0; }
+
+#subscribeModal .close {
+  color: #fff; }
+
+#subscribeModal .form-control {
+  margin-top: 1rem;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff; }
+  #subscribeModal .form-control:focus {
+    border-color: #49506a; }
+
+/*
+ * Affix and center
+ */
+@media (min-width: 768px) {
+  /* Pull out the header and footer */
+  .masthead {
+    position: fixed;
+    top: 0; }
+  .mastfoot {
+    position: fixed;
+    bottom: 0; }
+  /* Start the vertical centering */
+  .site-wrapper-inner {
+    vertical-align: middle; }
+  /* Handle the widths */
+  .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 100%;
+    /* Must be percentage or pixels for horizontal alignment */ } }
+
+@media (min-width: 992px) {
+  .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 1060px; } }
