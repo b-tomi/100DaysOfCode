@@ -260,5 +260,8 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 * [Temporary Landing Page Project](day82/.)
 * [Live Website](https://portfolio.bodon.dev/100DaysOfCodeDay82)
 
+### Day 83 - Professional Portfolio Project - Python Scripting
+* [Tic Tac Toe Project](day83/.)
+
 ## License
 Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12) or later.
