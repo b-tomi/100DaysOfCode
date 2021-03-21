@@ -1,0 +1,2 @@
+﻿feedparser==6.0.1
+PyDrive==1.3.1

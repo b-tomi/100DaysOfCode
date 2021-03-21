@@ -263,5 +263,8 @@ My solutions for the projects included in the [Python course by Dr. Angela Yu](h
 ### Day 83 - Professional Portfolio Project - Python Scripting
 * [Tic Tac Toe Project](day83/.)
 
+### Day 97 - Professional Portfolio Project - Python Automation
+* [Podcast Downloader/Uploader Project](day97/.)
+
 ## License
 Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12) or later.
