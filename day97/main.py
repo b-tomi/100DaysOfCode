@@ -20,7 +20,6 @@ import config
 RSS_BEGINNERS = "https://nihongoconteppei.com/feed/podcast/"
 RSS_INTERMED = "http://teppeisensei.com/index20.rdf"
 RSS_TEPPNORI = "https://teppeinorikojapanese.com/feed/podcast/"
-# included for future use, still working my way through the above ones
 RSS_NORIKO = "https://anchor.fm/s/1380f800/podcast/rss"
 
 
@@ -48,6 +47,8 @@ def get_episodes_list(rss_url, last_ep, is_intermed=False):
         newest_ep = int(newest_link[63:66])
     else:
         # just get the episode number from the file name e.g. "...284.mp3"
+        # fix for "Teppeinoriko152-1.mp3", just in case it happens again, also fix in the file names below
+        newest_link = newest_link.replace("-1.mp3", ".mp3")
         newest_ep = int(newest_link[-7:-4])
 
     # add all newer eps into a list
@@ -71,6 +72,8 @@ def download_episodes(ep_list, is_intermed=False, is_teppnori=False):
             filename = f"{str(file)[41:66]}.mp3"
             target = config.FOLDER_INTERMED + filename
         elif is_teppnori:
+            # the fix for "Teppeinoriko152-1.mp3"
+            file = file.replace("-1.mp3", ".mp3")
             filename = f"{str(file)[-19:-4]}.mp3"
             target = config.FOLDER_TEPPNORI + filename
         else:
@@ -94,7 +97,7 @@ def upload_episode(file_name, is_intermed, is_teppnori):
         folder_id = config.UPLOAD_TEPPNORI
     else:
         source_file = config.FOLDER_BEGINNERS + file_name
-        folder_id = config.UPLOAD_INTERMED
+        folder_id = config.UPLOAD_BEGINNERS
 
     # upload the file using PyDrive
     file = drive.CreateFile({"title": file_name, "mimeType": "audio/mpeg", "parents": [{"id": folder_id}]})
