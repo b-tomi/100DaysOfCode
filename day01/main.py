@@ -8,8 +8,7 @@ pet_name = ""
 
 # simple check to make sure the user has entered something
 while True:
-    print("What's the name of the city you grew up in?")
-    city = input("> ")
+    city = input("What's the name of the city you grew up in?\n> ")
     # if there's no input, ask again
     if city == "":
         print("You haven't entered anything. Please try again.")
@@ -19,8 +18,7 @@ while True:
 
 # do the same for the pet name
 while True:
-    print("What's your pet's name?")
-    pet_name = input("> ")
+    pet_name = input("What's your pet's name?\n> ")
     if pet_name == "":
         print("You haven't entered anything. Please try again.")
     else:
